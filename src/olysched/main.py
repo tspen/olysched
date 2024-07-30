@@ -21,8 +21,8 @@ def fetch_olympic_schedule(date):
         response.raise_for_status()
         data = response.json()
 
-        with open("response.json", "w") as f:
-            json.dump(data, f)
+        # with open("response.json", "w") as f:
+        #     json.dump(data, f)
 
         return data
     except requests.RequestException as e:
@@ -153,7 +153,7 @@ def main():
 
     if schedule_data:
         schedule = format_schedule(schedule_data)
-        # print(schedule)
+        print(schedule)
 
         with open("index.md", "w", encoding="utf-8") as f:
             f.write(schedule)
