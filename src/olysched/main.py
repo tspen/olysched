@@ -118,7 +118,7 @@ def format_schedule(schedule_data):
                 for event in events
                 if re.search(r"Race (\d+)", event["eventUnitName"])
             ]
-            formatted_schedule += f" #### Races: {', '.join(race_numbers)}\n"
+            formatted_schedule += f"#### Races: {', '.join(race_numbers)}\n"
         else:
             formatted_schedule += f"### {start_time_aest.strftime('%Y-%m-%d %H:%M')} - {event_title}\n"
 

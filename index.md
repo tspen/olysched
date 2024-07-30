@@ -4,8 +4,8 @@
 * Hodges / Schubert (AUS) vs Bryl / Losiak (POL)
 
 ### 2024-07-30 17:00 - Shooting: Trap Men's Qualification - Day 2
-* James Willett
 * Mitchell Iles
+* James Willett
 
 ### 2024-07-30 17:00 - Shooting: Trap Women's Qualification - Day 1
 * Penny Smith
@@ -41,20 +41,20 @@
 * Alexei Popyrin (AUS) vs Stan Wawrinka (SUI)
 
 ### 2024-07-30 20:05 - 21:25 - Sailing: Women's Skiff
- #### Races: 7, 8, 9
+#### Races: 7, 8, 9
 * Price / Haseldine
 
 ### 2024-07-30 20:13 - 22:17 - Sailing: Men's Windsurfing
- #### Races: 2, 3, 4, 5, 6
+#### Races: 2, 3, 4, 5, 6
 * Grae Morris
 
 ### 2024-07-30 20:47 - Swimming: Women's 100m Freestyle - Heats
-* Shayna Jack
 * Mollie O'callaghan
+* Shayna Jack
 
 ### 2024-07-30 21:01 - Swimming: Men's 200m Breaststroke - Heats
-* Joshua Yong
 * Zac Stubblety-Cook
+* Joshua Yong
 
 ### 2024-07-30 21:20 - Swimming: Men's 4 x 200m Freestyle Relay - Heats
 * Australia
@@ -72,7 +72,7 @@
 * Ebden / Peers (AUS) vs Carreno / Granollers (ESP)
 
 ### 2024-07-30 22:35 - 00:19 - Sailing: Men's Skiff
- #### Races: 7, 8, 9
+#### Races: 7, 8, 9
 * Colley / Connor
 
 ### 2024-07-30 22:50 - Badminton: Women's Doubles Group Play Stage - Group C
@@ -113,8 +113,8 @@
 * Jack Robinson
 
 ### 2024-07-31 04:56 - 🏅 Swimming: Women's 100m Backstroke Final
-* Iona Anderson
 * Kaylee Mckeown
+* Iona Anderson
 
 ### 2024-07-31 05:02 - 🏅 Swimming: Men's 800m Freestyle Final
 * Elijah Winnington
