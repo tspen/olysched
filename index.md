@@ -29,15 +29,15 @@
 * Matthew Temple
 
 ### 19:17 - Swimming: Men's 100m Freestyle - Heats
-* Kyle Chalmers
 * William Yang
+* Kyle Chalmers
 
 ### 19:32 - Boxing: Men's 51kg - Preliminaries - Round of 16
 * Yusuf Chothia (AUS) vs Rafael Lozano Serrano (ESP)
 
 ### 19:51 - Swimming: Women's 1500m Freestyle - Heats
-* Lani Pallister
 * Moesha Johnson
+* Lani Pallister
 
 ### 20:00 - Tennis: Men's Singles Second Round
 * Alexei Popyrin (AUS) vs Stan Wawrinka (SUI)
@@ -51,12 +51,12 @@
 * Grae Morris
 
 ### 20:47 - Swimming: Women's 100m Freestyle - Heats
-* Shayna Jack
 * Mollie O'callaghan
+* Shayna Jack
 
 ### 21:01 - Swimming: Men's 200m Breaststroke - Heats
-* Zac Stubblety-Cook
 * Joshua Yong
+* Zac Stubblety-Cook
 
 ### 21:20 - Swimming: Men's 4 x 200m Freestyle Relay - Heats
 * Australia
@@ -115,8 +115,8 @@
 * Jack Robinson
 
 ### 04:56 - 🏅 Swimming: Women's 100m Backstroke Final
-* Iona Anderson
 * Kaylee Mckeown
+* Iona Anderson
 
 ### 05:02 - 🏅 Swimming: Men's 800m Freestyle Final
 * Elijah Winnington
