@@ -71,20 +71,18 @@ def group_events(events):
     return grouped_events
 
 
-def format_schedule(schedule_data):
+def format_schedule(schedule_data, today):
     if not schedule_data or "units" not in schedule_data:
         return "No schedule data available."
 
-    formatted_schedule = (
-        "# 🇦🇺 Olympic Events\n\n"
-    )
+    formatted_schedule = f"# 🇦🇺 Olympic Events\n\n## {today}\n\n"
 
     # Group events
     australian_events = [
-            event
-            for event in schedule_data.get("units", [])
-            if any(comp.get("noc") == "AUS" for comp in event.get("competitors", []))
-        ]
+        event
+        for event in schedule_data.get("units", [])
+        if any(comp.get("noc") == "AUS" for comp in event.get("competitors", []))
+    ]
     grouped_events = group_events(australian_events)
 
     for (discipline, event_name), events in grouped_events.items():
@@ -112,7 +110,7 @@ def format_schedule(schedule_data):
 
         if len(australian_events) > 1:
             end_time_aest = convert_to_aest(events[-1].get("startDate", ""))
-            formatted_schedule += f"### {start_time_aest.strftime('%Y-%m-%d %H:%M')} - {end_time_aest.strftime('%H:%M')} - {event_title}\n"
+            formatted_schedule += f"### {start_time_aest.strftime('%H:%M')} - {end_time_aest.strftime('%H:%M')} - {event_title}\n"
             race_numbers = [
                 re.search(r"Race (\d+)", event["eventUnitName"]).group(1)
                 for event in events
@@ -120,7 +118,9 @@ def format_schedule(schedule_data):
             ]
             formatted_schedule += f"#### Races: {', '.join(race_numbers)}\n"
         else:
-            formatted_schedule += f"### {start_time_aest.strftime('%Y-%m-%d %H:%M')} - {event_title}\n"
+            formatted_schedule += (
+                f"### {start_time_aest.strftime('%H:%M')} - {event_title}\n"
+            )
 
         if (
             len(australian_competitors) == 1
@@ -157,7 +157,7 @@ def main():
     schedule_data = fetch_olympic_schedule(today.isoformat())
 
     if schedule_data:
-        schedule = format_schedule(schedule_data)
+        schedule = format_schedule(schedule_data, today)
         print(schedule)
 
         with open("index.md", "w", encoding="utf-8") as f:
