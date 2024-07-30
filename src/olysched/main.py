@@ -155,7 +155,7 @@ def main():
         schedule = format_schedule(schedule_data)
         # print(schedule)
 
-        with open("australian_olympic_schedule.md", "w", encoding="utf-8") as f:
+        with open("index.md", "w", encoding="utf-8") as f:
             f.write(schedule)
         # print("Schedule has been saved to australian_olympic_schedule.md")
     else:
