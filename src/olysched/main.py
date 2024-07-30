@@ -76,11 +76,16 @@ def format_schedule(schedule_data):
         return "No schedule data available."
 
     formatted_schedule = (
-        "# Olympic Events Schedule for Australian Competitors (AEST Times)\n\n"
+        "# 🇦🇺 Olympic Events\n\n"
     )
 
     # Group events
-    grouped_events = group_events(schedule_data["units"])
+    australian_events = [
+            event
+            for event in schedule_data.get("units", [])
+            if any(comp.get("noc") == "AUS" for comp in event.get("competitors", []))
+        ]
+    grouped_events = group_events(australian_events)
 
     for (discipline, event_name), events in grouped_events.items():
         australian_competitors = [
@@ -107,15 +112,15 @@ def format_schedule(schedule_data):
 
         if len(australian_events) > 1:
             end_time_aest = convert_to_aest(events[-1].get("startDate", ""))
-            formatted_schedule += f"## {start_time_aest.strftime('%Y-%m-%d %H:%M')} - {end_time_aest.strftime('%H:%M')} AEST - {event_title}\n"
+            formatted_schedule += f"### {start_time_aest.strftime('%Y-%m-%d %H:%M')} - {end_time_aest.strftime('%H:%M')} - {event_title}\n"
             race_numbers = [
                 re.search(r"Race (\d+)", event["eventUnitName"]).group(1)
                 for event in events
                 if re.search(r"Race (\d+)", event["eventUnitName"])
             ]
-            formatted_schedule += f"Races: {', '.join(race_numbers)}\n"
+            formatted_schedule += f" #### Races: {', '.join(race_numbers)}\n"
         else:
-            formatted_schedule += f"## {start_time_aest.strftime('%Y-%m-%d %H:%M')} AEST - {event_title}\n"
+            formatted_schedule += f"### {start_time_aest.strftime('%Y-%m-%d %H:%M')} - {event_title}\n"
 
         if (
             len(australian_competitors) == 1
