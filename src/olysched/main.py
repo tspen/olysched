@@ -75,7 +75,7 @@ def format_schedule(schedule_data, today):
     if not schedule_data or "units" not in schedule_data:
         return "No schedule data available."
 
-    formatted_schedule = f"# 🇦🇺 Olympic Events\n\n## {today}\n\n"
+    formatted_schedule = f"# 🇦🇺 Olympic Events\n\n## {today.strftime('%-d %B')}\n\n"
 
     # Group events
     australian_events = [

@@ -1,13 +1,13 @@
 # 🇦🇺 Olympic Events
 
-## 2024-07-30
+## 30 July
 
 ### 17:00 - Beach Volleyball: Men's Preliminary Phase - Pool C
 * Hodges / Schubert (AUS) vs Bryl / Losiak (POL)
 
 ### 17:00 - Shooting: Trap Men's Qualification - Day 2
-* Mitchell Iles
 * James Willett
+* Mitchell Iles
 
 ### 17:00 - Shooting: Trap Women's Qualification - Day 1
 * Catherine Skinner
@@ -29,15 +29,15 @@
 * Matthew Temple
 
 ### 19:17 - Swimming: Men's 100m Freestyle - Heats
-* William Yang
 * Kyle Chalmers
+* William Yang
 
 ### 19:32 - Boxing: Men's 51kg - Preliminaries - Round of 16
 * Yusuf Chothia (AUS) vs Rafael Lozano Serrano (ESP)
 
 ### 19:51 - Swimming: Women's 1500m Freestyle - Heats
-* Moesha Johnson
 * Lani Pallister
+* Moesha Johnson
 
 ### 20:00 - Tennis: Men's Singles Second Round
 * Alexei Popyrin (AUS) vs Stan Wawrinka (SUI)
@@ -51,8 +51,8 @@
 * Grae Morris
 
 ### 20:47 - Swimming: Women's 100m Freestyle - Heats
-* Mollie O'callaghan
 * Shayna Jack
+* Mollie O'callaghan
 
 ### 21:01 - Swimming: Men's 200m Breaststroke - Heats
 * Zac Stubblety-Cook
