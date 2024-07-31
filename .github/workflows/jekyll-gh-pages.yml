@@ -56,7 +56,12 @@ jobs:
         git config --local user.name "Automated"
         git add -A
         git commit -m "Latest data: ${timestamp}" || exit 0
-        git push
+        
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
 
   build:
     runs-on: ubuntu-latest

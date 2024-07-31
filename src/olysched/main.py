@@ -144,7 +144,7 @@ def format_schedule(schedule_data, today):
                 )
         else:
             # Multi-competitor event
-            for competitor in set(comp["name"] for comp in australian_competitors):
+            for competitor in sorted(set(comp["name"] for comp in australian_competitors)):
                 formatted_schedule += f"* {format_name(competitor)}\n"
 
         formatted_schedule += "\n"
