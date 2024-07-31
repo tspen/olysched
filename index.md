@@ -60,6 +60,9 @@
 ### 18:54 - Rowing: Women's Four Final B
 * Australia
 
+### 19:00 - Equestrian: Jumping Team Qualifier
+* Australia
+
 ### 19:00 - Swimming: Women's 200m Backstroke - Heats
 * Jaclyn Barclay
 * Kaylee Mckeown
