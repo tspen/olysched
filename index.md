@@ -117,6 +117,10 @@
 ### 04:15 - Hockey: Women's Pool B
 * AUS vs ARG
 
+### 04:30 - 🏅 Swimming: Women's 200m Butterfly Final
+* Abbey Lee Connor
+* Elizabeth Dekkers
+
 ### 04:48 - Surfing: Men's Quarterfinals - Heat 4
 * Ethan Ewing
 * Jack Robinson
