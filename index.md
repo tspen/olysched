@@ -18,12 +18,12 @@
 * Aoife Coughlan (AUS) vs Szabina Gercsak (HUN)
 
 ### 18:45 - 🏅 Triathlon: Men's Individual
-* Matthew Hauser
 * Luke Willian
+* Matthew Hauser
 
 ### 19:00 - Swimming: Women's 200m Breaststroke - Heats
-* Jenna Strauch
 * Ella Ramsay
+* Jenna Strauch
 
 ### 19:04 - Rowing: Women's Pair Semifinal A/B 2
 * Australia
@@ -104,9 +104,12 @@
 * Moesha Johnson
 
 ### 06:31 - 🏅 Swimming: Men's 200m Breaststroke Final
-* Zac Stubblety-Cook
 * Joshua Yong
+* Zac Stubblety-Cook
 
 ### 06:39 - 🏅 Swimming: Men's 100m Freestyle Final
 * Kyle Chalmers
+
+### 08:36 - Surfing: Women's Round 3 - Heat 2
+* Tyler Wright (AUS) vs Anat Lelior (ISR)
 
