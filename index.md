@@ -75,6 +75,10 @@
 * Thomas Neill
 * William Campbell Petric
 
+### 20:03 - 04:01 - Sailing: Men's Windsurfing
+#### Races: 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+* Grae Morris
+
 ### 20:05 - Swimming: Women's 4 x 200m Freestyle Relay - Heats
 * Australia
 
@@ -98,10 +102,6 @@
 #### Races: 1, 2
 * Zoe Thomson
 
-### 23:53 - 04:01 - Sailing: Men's Windsurfing
-#### Races: 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
-* Grae Morris
-
 ### 23:56 - Archery: Women's Individual 1/32 Elimination Round
 * Laura Paeglis (AUS) vs Caroline Lopez (FRA)
 
@@ -110,6 +110,9 @@
 
 ### 00:18 - Boxing: Women's 66kg - Preliminaries - Round of 16
 * Marissa Williamson (AUS) vs Anna Luca Hamori (HUN)
+
+### 02:15 - 🏅 Artistic Gymnastics: Women's All-Around Final
+* Ruby Pass
 
 ### 04:15 - Hockey: Women's Pool B
 * AUS vs ARG
