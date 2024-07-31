@@ -110,3 +110,6 @@
 ### 06:39 - 🏅 Swimming: Men's 100m Freestyle Final
 * Kyle Chalmers
 
+### 08:36 - Surfing: Women's Round 3 - Heat 2
+* Tyler Wright (AUS) vs Anat Lelior (ISR)
+
