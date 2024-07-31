@@ -1,123 +1,112 @@
 # 🇦🇺 Olympic Events
 
-## 30 July
+## 31 July
 
-### 17:00 - Beach Volleyball: Men's Preliminary Phase - Pool C
-* Hodges / Schubert (AUS) vs Bryl / Losiak (POL)
+### 16:00 - 🏅 Triathlon: Women's Individual
+* Natalie van Coevorden
+* Sophie Linn
 
-### 17:00 - Shooting: Trap Men's Qualification - Day 2
-* James Willett
-* Mitchell Iles
+### 17:00 - Shooting: 50m Rifle 3 Positions Men's Qualification
+* Dane Sampson
+* Jack Rossiter
 
-### 17:00 - Shooting: Trap Women's Qualification - Day 1
+### 17:00 - Shooting: Trap Women's Qualification - Day 2
 * Catherine Skinner
 * Penny Smith
 
-### 17:30 - Rowing: Women's Single Sculls Quarterfinals
-* Tara Rigney
+### 18:30 - Judo: Women -70 kg Elimination Round of 32
+* Aoife Coughlan (AUS) vs Szabina Gercsak (HUN)
 
-### 18:30 - Judo: Women -63 kg Elimination Round of 32
-* Katharina Haecker (AUS) vs Lucy Renshall (GBR)
+### 18:45 - 🏅 Triathlon: Men's Individual
+* Matthew Hauser
+* Luke Willian
 
-### 18:30 - Water Polo: Men's Preliminary Round - Group B
-* AUS vs SRB
+### 19:00 - Swimming: Women's 200m Breaststroke - Heats
+* Jenna Strauch
+* Ella Ramsay
 
-### 19:00 - Rowing: Women's Double Sculls Semifinal A/B 2
+### 19:04 - Rowing: Women's Pair Semifinal A/B 2
 * Australia
 
-### 19:00 - Swimming: Men's 200m Butterfly - Heats
-* Matthew Temple
+### 19:21 - Swimming: Men's 200m Backstroke - Heats
+* Bradley Woodward
+* Se-Bom Lee
 
-### 19:17 - Swimming: Men's 100m Freestyle - Heats
-* William Yang
-* Kyle Chalmers
+### 19:32 - Boxing: Men's 71kg - Preliminaries - Round of 16
+* Shannan Davey (AUS) vs Rami Mofid Kiwan (BUL)
 
-### 19:32 - Boxing: Men's 51kg - Preliminaries - Round of 16
-* Yusuf Chothia (AUS) vs Rafael Lozano Serrano (ESP)
+### 19:46 - Swimming: Women's 200m Butterfly - Heats
+* Abbey Lee Connor
+* Elizabeth Dekkers
 
-### 19:51 - Swimming: Women's 1500m Freestyle - Heats
-* Moesha Johnson
-* Lani Pallister
+### 20:00 - Tennis: Men's Singles Third Round
+* Alexei Popyrin (AUS) vs Alexander Zverev (GER)
 
-### 20:00 - Tennis: Men's Singles Second Round
-* Alexei Popyrin (AUS) vs Stan Wawrinka (SUI)
+### 20:14 - Rowing: Women's Quadruple Sculls Final B
+* Australia
 
-### 20:05 - 21:25 - Sailing: Women's Skiff
-#### Races: 7, 8, 9
-* Price / Haseldine
+### 20:36 - Boxing: Women's 75kg - Preliminaries - Round of 16
+* Caitlin Parker (AUS) vs Citlalli Vanessa Ortiz (MEX)
 
-### 20:13 - 22:17 - Sailing: Men's Windsurfing
-#### Races: 2, 3, 4, 5, 6
+### 21:00 - Tennis: Mixed Doubles Quarter-final
+* Perez / Ebden (AUS) vs Wang / Zhang (CHN)
+
+### 21:10 - 🏅 Cycling BMX Freestyle: Women's Park Final
+* Natalya Diehm
+
+### 21:15 - Hockey: Women's Pool B
+* AUS vs USA
+
+### 21:30 - Tennis: Men's Doubles Quarter-final
+* Ebden / Peers (AUS) vs Koepfer / Struff (GER)
+
+### 21:43 - 00:46 - Sailing: Men's Windsurfing
+#### Races: 7, 8, 9, 10
 * Grae Morris
 
-### 20:47 - Swimming: Women's 100m Freestyle - Heats
+### 22:00 - Water Polo: Women's Preliminary Round - Group A
+* AUS vs NED
+
+### 22:15 - 23:59 - Sailing: Men's Skiff
+#### Races: 10, 11, 12
+* Colley / Connor
+
+### 22:36 - Archery: Men's Individual 1/32 Elimination Round
+* Peter Boukouvalas (AUS) vs Lee Wooseok (KOR)
+
+### 22:44 - 🏅 Cycling BMX Freestyle: Men's Park Final
+* Logan Martin
+
+### 23:15 - 00:35 - Sailing: Women's Skiff
+#### Races: 10, 11, 12
+* Price / Haseldine
+
+### 23:30 - Canoe Slalom: Women's Canoe Single Semifinal
+* Jessica Fox
+
+### 23:46 - Boxing: Men's 57kg - Preliminaries - Round of 16
+* Charlie Senior (AUS) vs Vasile Usturoi (BEL)
+
+### 01:30 - 3x3 Basketball: Women's Pool Round
+* AUS vs GER
+
+### 01:30 - 🏅 Artistic Gymnastics: Men's All-Around Final
+* Jesse Moore
+
+### 03:00 - Football: Women's Group B
+* AUS vs USA
+
+### 04:30 - 🏅 Swimming: Women's 100m Freestyle Final
 * Mollie O'callaghan
 * Shayna Jack
 
-### 21:01 - Swimming: Men's 200m Breaststroke - Heats
-* Joshua Yong
+### 05:13 - 🏅 Swimming: Women's 1500m Freestyle Final
+* Moesha Johnson
+
+### 06:31 - 🏅 Swimming: Men's 200m Breaststroke Final
 * Zac Stubblety-Cook
+* Joshua Yong
 
-### 21:20 - Swimming: Men's 4 x 200m Freestyle Relay - Heats
-* Australia
-
-### 21:25 - Cycling BMX Freestyle: Women's Park Qualification
-* Natalya Diehm
-
-### 21:30 - Basketball: Men's Group Phase - Group A
-* AUS vs CAN
-
-### 21:30 - Tennis: Women's Doubles First Round
-* Gadecki / Tomljanovic (AUS) vs Andreeva / Shnaider (AIN)
-
-### 21:30 - Tennis: Men's Doubles Second Round
-* Ebden / Peers (AUS) vs Carreno / Granollers (ESP)
-
-### 22:35 - 00:19 - Sailing: Men's Skiff
-#### Races: 7, 8, 9
-* Colley / Connor
-
-### 22:50 - Badminton: Women's Doubles Group Play Stage - Group C
-* Mapasa / Yu (AUS) vs Crasto / Ponnappa (IND)
-
-### 23:00 - Canoe Slalom: Women's Canoe Single Heats 1st Run
-* Jessica Fox
-
-### 23:11 - Cycling BMX Freestyle: Men's Park Qualification
-* Logan Martin
-
-### 00:00 - Canoe Slalom: Men's Kayak Single Heats 1st Run
-* Timothy Anderson
-
-### 00:00 - Rugby Sevens: Women's Semi-final
-* AUS vs CAN
-
-### 00:18 - Boxing: Men's 80kg - Preliminaries - Round of 16
-* Callum Peters (AUS) vs Nurbek Oralbay (KAZ)
-
-### 01:06 - Boxing: Women's 54kg - Preliminaries - Round of 16
-* Tiana Echegaray (AUS) vs Hatice Akbas (TUR)
-
-### 01:10 - Canoe Slalom: Women's Canoe Single Heats 2nd Run
-* Jessica Fox
-
-### 02:00 - 3x3 Basketball: Women's Pool Round
-* AUS vs CAN
-
-### 02:10 - Canoe Slalom: Men's Kayak Single Heats 2nd Run
-* Timothy Anderson
-
-### 03:45 - Hockey: Men's Pool B
-* AUS vs BEL
-
-### 04:48 - Surfing: Men's Quarterfinals - Heat 4
-* Ethan Ewing
-* Jack Robinson
-
-### 04:56 - 🏅 Swimming: Women's 100m Backstroke Final
-* Kaylee Mckeown
-* Iona Anderson
-
-### 05:02 - 🏅 Swimming: Men's 800m Freestyle Final
-* Elijah Winnington
+### 06:39 - 🏅 Swimming: Men's 100m Freestyle Final
+* Kyle Chalmers
 
