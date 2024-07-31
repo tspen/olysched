@@ -1,10 +1,10 @@
-import requests
-from datetime import datetime
-import pytz
-from dateutil import parser
-from collections import defaultdict
 import re
-import json
+from collections import defaultdict
+from datetime import datetime
+
+import pytz
+import requests
+from dateutil import parser
 
 COMMON_USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 MEDAL_EMOJI = "🏅"
