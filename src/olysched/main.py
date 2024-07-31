@@ -1,13 +1,90 @@
+import json
 import re
 from collections import defaultdict
 from datetime import datetime
+from typing import List, Optional
 
 import pytz
 import requests
 from dateutil import parser
+from pydantic import BaseModel, Field, root_validator
 
 COMMON_USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 MEDAL_EMOJI = "🏅"
+
+
+# Pydantic models
+class CompetitorResult(BaseModel):
+    position: str = ""
+    mark: str = ""
+    medalType: str = ""
+    irm: str = ""
+    penalty: Optional[str] = None
+
+
+class Competitor(BaseModel):
+    code: str
+    noc: str
+    name: str
+    order: int
+    results: Optional[CompetitorResult] = None
+
+
+class ExtraData(BaseModel):
+    detailUrl: Optional[str] = None
+
+
+class EventUnit(BaseModel):
+    disciplineName: str
+    eventUnitName: str
+    id: str
+    disciplineCode: str
+    genderCode: str
+    eventCode: str
+    phaseCode: str
+    eventId: str
+    eventName: str
+    phaseId: str
+    phaseName: str
+    disciplineId: str
+    eventOrder: int
+    phaseType: str
+    eventUnitType: str
+    olympicDay: str
+    startDate: datetime
+    endDate: datetime
+    hideStartDate: bool
+    hideEndDate: bool
+    startText: str
+    order: int
+    venue: str
+    venueDescription: str
+    location: str
+    locationDescription: str
+    status: str
+    statusDescription: str
+    medalFlag: int
+    liveFlag: bool
+    scheduleItemType: str
+    unitNum: str
+    sessionCode: str
+    groupId: Optional[str] = None
+    competitors: List[Competitor] = Field(default_factory=list)
+    extraData: ExtraData
+
+    @root_validator(pre=True)
+    def filter_competitors(cls, values):
+        if "competitors" in values:
+            values["competitors"] = [
+                comp
+                for comp in values["competitors"]
+                if comp.get("code") != "TBD" and comp.get("name") != "TBD"
+            ]
+        return values
+
+
+class OlympicSchedule(BaseModel):
+    units: List[EventUnit]
 
 
 def fetch_olympic_schedule(date):
@@ -19,12 +96,11 @@ def fetch_olympic_schedule(date):
     try:
         response = requests.get(url, headers=headers)
         response.raise_for_status()
-        data = response.json()
+        with open("response.json", "w") as f:
+            json.dump(response.json(), f)
 
-        # with open("response.json", "w") as f:
-        #     json.dump(data, f)
-
-        return data
+        schedule_data = response.json()
+        return OlympicSchedule(**schedule_data)
     except requests.RequestException as e:
         print(f"An error occurred while fetching data: {e}")
         return None
@@ -64,57 +140,53 @@ def group_events(events):
     grouped_events = defaultdict(list)
     for event in events:
         key = (
-            event["disciplineName"],
-            re.sub(r" - Race \d+", "", event["eventUnitName"]),
+            event.disciplineName,
+            re.sub(r" - Race \d+", "", event.eventUnitName),
         )
         grouped_events[key].append(event)
     return grouped_events
 
 
-def format_schedule(schedule_data, today):
-    if not schedule_data or "units" not in schedule_data:
+def format_schedule(schedule: OlympicSchedule, today):
+    if not schedule or not schedule.units:
         return "No schedule data available."
 
     formatted_schedule = f"# 🇦🇺 Olympic Events\n\n## {today.strftime('%-d %B')}\n\n"
 
-    # Group events
     australian_events = [
         event
-        for event in schedule_data.get("units", [])
-        if any(comp.get("noc") == "AUS" for comp in event.get("competitors", []))
+        for event in schedule.units
+        if any(comp.noc == "AUS" for comp in event.competitors)
     ]
     grouped_events = group_events(australian_events)
 
     for (discipline, event_name), events in grouped_events.items():
         australian_competitors = [
-            comp
-            for event in events
-            for comp in event.get("competitors", [])
-            if comp.get("noc") == "AUS"
+            comp for event in events for comp in event.competitors if comp.noc == "AUS"
         ]
         australian_events = [
             event
             for event in events
-            if any(comp.get("noc") == "AUS" for comp in event.get("competitors", []))
+            if any(comp.noc == "AUS" for comp in event.competitors)
         ]
 
         if not australian_competitors:
-            continue  # Skip events without Australian competitors
+            continue
 
-        start_time_aest = convert_to_aest(events[0].get("startDate", ""))
+        start_time_aest = convert_to_aest(str(events[0].startDate))
 
-        medal_event = any(event.get("medalFlag") == 1 for event in events)
+        medal_event = any(event.medalFlag == 1 for event in events)
         event_title = f"{discipline}: {event_name}"
         if medal_event:
             event_title = f"{MEDAL_EMOJI} {event_title}"
 
         if len(australian_events) > 1:
-            end_time_aest = convert_to_aest(events[-1].get("startDate", ""))
+            end_time_aest = convert_to_aest(str(events[-1].startDate))
             formatted_schedule += f"### {start_time_aest.strftime('%H:%M')} - {end_time_aest.strftime('%H:%M')} - {event_title}\n"
             race_numbers = [
-                re.search(r"Race (\d+)", event["eventUnitName"]).group(1)
+                re.search(r"Race (\d+)", event.eventUnitName).group(1)
                 for event in events
-                if re.search(r"Race (\d+)", event["eventUnitName"])
+                if re.search(r"Race (\d+)", event.eventUnitName)
             ]
             formatted_schedule += f"#### Races: {', '.join(race_numbers)}\n"
         else:
@@ -122,20 +194,12 @@ def format_schedule(schedule_data, today):
                 f"### {start_time_aest.strftime('%H:%M')} - {event_title}\n"
             )
 
-        if (
-            len(australian_competitors) == 1
-            and len(events[0].get("competitors", [])) == 2
-        ):
-            # One-on-one match
+        if len(australian_competitors) == 1 and len(events[0].competitors) == 2:
             aus_comp = australian_competitors[0]
-            opponent = next(
-                comp
-                for comp in events[0].get("competitors", [])
-                if comp.get("noc") != "AUS"
-            )
-            aus_name = format_name(aus_comp.get("name", "Unknown"))
-            opp_name = format_name(opponent.get("name", "Unknown"))
-            opp_country = opponent.get("noc", "???")
+            opponent = next(comp for comp in events[0].competitors if comp.noc != "AUS")
+            aus_name = format_name(aus_comp.name)
+            opp_name = format_name(opponent.name)
+            opp_country = opponent.noc
             if aus_name == "Australia":
                 formatted_schedule += f"* AUS vs {opp_country}\n"
             else:
@@ -143,8 +207,7 @@ def format_schedule(schedule_data, today):
                     f"* {aus_name} (AUS) vs {opp_name} ({opp_country})\n"
                 )
         else:
-            # Multi-competitor event
-            for competitor in sorted(set(comp["name"] for comp in australian_competitors)):
+            for competitor in sorted(set(comp.name for comp in australian_competitors)):
                 formatted_schedule += f"* {format_name(competitor)}\n"
 
         formatted_schedule += "\n"
@@ -154,15 +217,14 @@ def format_schedule(schedule_data, today):
 
 def main():
     today = datetime.now(pytz.timezone("Australia/Sydney")).date()
-    schedule_data = fetch_olympic_schedule(today.isoformat())
+    schedule = fetch_olympic_schedule(today.isoformat())
 
-    if schedule_data:
-        schedule = format_schedule(schedule_data, today)
-        print(schedule)
+    if schedule:
+        formatted_schedule = format_schedule(schedule, today)
+        print(formatted_schedule)
 
         with open("index.md", "w", encoding="utf-8") as f:
-            f.write(schedule)
-        # print("Schedule has been saved to australian_olympic_schedule.md")
+            f.write(formatted_schedule)
     else:
         print("Failed to fetch the schedule.")
 

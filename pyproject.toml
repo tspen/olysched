@@ -8,6 +8,7 @@ dependencies = [
     "pytz",
     "python-dateutil",
     "requests",
+    "pydantic",
 ]
 
 [build-system]
