@@ -87,6 +87,9 @@
 ### 23:30 - Canoe Slalom: Women's Canoe Single Semifinal
 * Jessica Fox
 
+### 23:30 - 🏅 Shooting: Trap Women's Final
+* Penny Smith
+
 ### 23:46 - Boxing: Men's 57kg - Preliminaries - Round of 16
 * Charlie Senior (AUS) vs Vasile Usturoi (BEL)
 
