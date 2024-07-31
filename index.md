@@ -103,8 +103,16 @@
 * Mollie O'callaghan
 * Shayna Jack
 
+### 04:45 - Swimming: Women's 200m Butterfly Semifinals
+* Abbey Lee Connor
+* Elizabeth Dekkers
+
 ### 05:13 - 🏅 Swimming: Women's 1500m Freestyle Final
 * Moesha Johnson
+
+### 06:03 - Swimming: Women's 200m Breaststroke Semifinals
+* Ella Ramsay
+* Jenna Strauch
 
 ### 06:31 - 🏅 Swimming: Men's 200m Breaststroke Final
 * Joshua Yong
