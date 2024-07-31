@@ -105,6 +105,9 @@
 #### Races: 1, 2
 * Zoe Thomson
 
+### 23:43 - 🏅 Sailing: Women's Skiff Medal Race
+* Price / Haseldine
+
 ### 23:56 - Archery: Women's Individual 1/32 Elimination Round
 * Laura Paeglis (AUS) vs Caroline Lopez (FRA)
 
