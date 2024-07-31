@@ -85,7 +85,7 @@
 ### 20:10 - 🏅 Rowing: Men's Four Final A
 * Australia
 
-### 20:15 - 22:20 - Sailing: Men's Dinghy
+### 20:15 - 21:25 - Sailing: Men's Dinghy
 #### Races: 1, 2
 * Matt Wearn
 
