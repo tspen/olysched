@@ -28,6 +28,9 @@
 ### 19:04 - Rowing: Women's Pair Semifinal A/B 2
 * Australia
 
+### 19:18 - Judo: Women -70 kg Elimination Round of 16
+* Aoife Coughlan (AUS) vs Miriam Butkereit (GER)
+
 ### 19:21 - Swimming: Men's 200m Backstroke - Heats
 * Bradley Woodward
 * Se-Bom Lee
@@ -71,11 +74,11 @@
 #### Races: 10, 11, 12
 * Colley / Connor
 
+### 22:32 - 🏅 Cycling BMX Freestyle: Men's Park Final
+* Logan Martin
+
 ### 22:36 - Archery: Men's Individual 1/32 Elimination Round
 * Peter Boukouvalas (AUS) vs Lee Wooseok (KOR)
-
-### 22:44 - 🏅 Cycling BMX Freestyle: Men's Park Final
-* Logan Martin
 
 ### 23:15 - 00:35 - Sailing: Women's Skiff
 #### Races: 10, 11, 12
