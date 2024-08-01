@@ -133,6 +133,17 @@
 * Abbey Lee Connor
 * Elizabeth Dekkers
 
+### 04:46 - Swimming: Men's 50m Freestyle Semifinals
+* Ben Armbruster
+* Cameron Mcevoy
+
+### 05:19 - Swimming: Women's 200m Backstroke Semifinals
+* Kaylee Mckeown
+
+### 05:47 - Swimming: Men's 200m Individual Medley Semifinals
+* Thomas Neill
+* William Campbell Petric
+
 ### 09:36 - Surfing: Men's Quarterfinals - Heat 4
 * Ethan Ewing
 * Jack Robinson
