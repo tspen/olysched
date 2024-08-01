@@ -120,6 +120,9 @@
 ### 02:15 - 🏅 Artistic Gymnastics: Women's All-Around Final
 * Ruby Pass
 
+### 03:36 - Surfing: Women's Round 3 - Heat 2
+* Tyler Wright (AUS) vs Anat Lelior (ISR)
+
 ### 04:15 - Hockey: Women's Pool B
 * AUS vs ARG
 
@@ -127,7 +130,7 @@
 * Abbey Lee Connor
 * Elizabeth Dekkers
 
-### 04:48 - Surfing: Men's Quarterfinals - Heat 4
+### 09:36 - Surfing: Men's Quarterfinals - Heat 4
 * Ethan Ewing
 * Jack Robinson
 
