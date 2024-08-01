@@ -51,17 +51,24 @@
 ### 20:03 - Swimming: Mixed 4 x 100m Medley Relay - Heats
 * Australia
 
+### 20:05 - 22:21 - Sailing: Women's Dinghy
+#### Races: 2, 3, 4
+* Zoe Thomson
+
 ### 20:05 - 21:50 - Sailing: Mixed Dinghy
 #### Races: 1, 2
 * Jerwood / Nicholas
+
+### 20:13 - 🏅 Sailing: Women's Skiff Medal Race
+* Price / Haseldine
 
 ### 20:15 - Athletics: Men's Decathlon Shot Put
 * Ashley Moloney
 * Daniel Golubovic
 
-### 20:15 - 21:23 - Sailing: Women's Dinghy
+### 20:20 - 21:30 - Sailing: Men's Dinghy
 #### Races: 3, 4
-* Zoe Thomson
+* Matt Wearn
 
 ### 21:15 - Hockey: Men's Pool B
 * AUS vs IND
@@ -75,10 +82,6 @@
 ### 23:30 - Canoe Slalom: Men's Kayak Cross Time Trial
 * Timothy Anderson
 * Tristan Carter
-
-### 23:35 - 00:45 - Sailing: Men's Dinghy
-#### Races: 3, 4
-* Matt Wearn
 
 ### 00:40 - Canoe Slalom: Women's Kayak Cross Time Trial
 * Jessica Fox
