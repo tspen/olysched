@@ -83,7 +83,10 @@
 * Grae Morris
 
 ### 20:05 - Swimming: Women's 4 x 200m Freestyle Relay - Heats
-* Australia
+* Brianna Throssell
+* Jamie Perkins
+* Lani Pallister
+* Shayna Jack
 
 ### 20:10 - 🏅 Rowing: Men's Four Final A
 * Australia
