@@ -51,6 +51,10 @@
 ### 20:03 - Swimming: Mixed 4 x 100m Medley Relay - Heats
 * Australia
 
+### 20:05 - 21:50 - Sailing: Mixed Dinghy
+#### Races: 1, 2
+* Jerwood / Nicholas
+
 ### 20:15 - Athletics: Men's Decathlon Shot Put
 * Ashley Moloney
 * Daniel Golubovic
