@@ -48,6 +48,9 @@
 ### 19:42 - 🏅 Rowing: Women's Pair Final A
 * Australia
 
+### 20:00 - Tennis: Men's Doubles Semi-final
+* Ebden / Peers
+
 ### 20:03 - Swimming: Mixed 4 x 100m Medley Relay - Heats
 * Australia
 
