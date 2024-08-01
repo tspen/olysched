@@ -49,7 +49,7 @@
 * Australia
 
 ### 20:00 - Tennis: Men's Doubles Semi-final
-* Ebden / Peers
+* Ebden / Peers (AUS) vs Fritz / Paul (USA)
 
 ### 20:03 - Swimming: Mixed 4 x 100m Medley Relay - Heats
 * Australia
