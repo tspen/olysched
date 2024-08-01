@@ -2,7 +2,7 @@
 
 ## 1 August
 
-### 15:30 - 🏅 Athletics: Men's 20km Race Walk
+### 16:00 - 🏅 Athletics: Men's 20km Race Walk
 * Declan Tingay
 * Kyle Swan
 * Rhydian Cowley
@@ -18,13 +18,13 @@
 * Jason Day
 * Min Woo Lee
 
-### 17:20 - 🏅 Athletics: Women's 20km Race Walk
+### 17:30 - Rowing: Women's Single Sculls Semifinal A/B 1
+* Tara Rigney
+
+### 17:50 - 🏅 Athletics: Women's 20km Race Walk
 * Jemima Montag
 * Olivia Sandery
 * Rebecca Henderson
-
-### 17:30 - Rowing: Women's Single Sculls Semifinal A/B 1
-* Tara Rigney
 
 ### 18:00 - Beach Volleyball: Men's Preliminary Phase - Pool A
 * Nicolaidis / Carracher (AUS) vs Cherif / Ahmed (QAT)
