@@ -144,6 +144,9 @@
 * Thomas Neill
 * William Campbell Petric
 
+### 06:03 - 🏅 Swimming: Women's 4 x 200m Freestyle Relay Final
+* Australia
+
 ### 09:36 - Surfing: Men's Quarterfinals - Heat 4
 * Ethan Ewing
 * Jack Robinson
