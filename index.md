@@ -86,6 +86,9 @@
 * Timothy Anderson
 * Tristan Carter
 
+### 00:08 - 🏅 Sailing: Men's Windsurfing - Final
+* Grae Morris
+
 ### 00:40 - Canoe Slalom: Women's Kayak Cross Time Trial
 * Jessica Fox
 * Noemie Fox
