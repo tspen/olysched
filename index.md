@@ -113,6 +113,12 @@
 ### 04:20 - Athletics: Women's Discus Throw Qualification - Group B
 * Taryn Gollshewsky
 
+### 04:30 - 🏅 Swimming: Men's 50m Freestyle Final
+* Cameron Mcevoy
+
+### 04:36 - 🏅 Swimming: Women's 200m Backstroke Final
+* Kaylee Mckeown
+
 ### 04:48 - Boxing: Women's 57kg - Preliminaries - Round of 16
 * Tina Rahimi (AUS) vs Julia Szeremeta (POL)
 
