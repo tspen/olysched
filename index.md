@@ -1,149 +1,84 @@
 # 🇦🇺 Olympic Events
 
-## 2 August
+## 3 August
 
-### 17:00 - Golf: Men's Individual Stroke Play Round 2
-* Jason Day
-* Min Woo Lee
+### 17:00 - Shooting: Skeet Women's Qualification - Day 1
+* Aislin Jones
 
-### 17:00 - Shooting: 25m Pistol Women's Qualification Precision
-* Elena Galiabovitch
+### 18:00 - Beach Volleyball: Men's Preliminary Phase - Pool C
+* Hodges / Schubert (AUS) vs Bassereau / Lyneel (FRA)
 
-### 17:30 - 20:30 - 3x3 Basketball: Women's Pool Round
-#### Races: 
+### 18:00 - 🏅 Equestrian: Dressage Team Grand Prix Special
 * Australia
 
-### 17:30 - Shooting: Skeet Men's Qualification - Day 1
-* Joshua Bell
+### 18:10 - Athletics: Men's Pole Vault Qualification
+* Kurtis Marschall
 
-### 18:05 - Athletics: Men's Decathlon 100m
-* Ashley Moloney
-* Daniel Golubovic
+### 18:18 - 🏅 Rowing: Women's Single Sculls Final A
+* Tara Rigney
 
-### 18:15 - Athletics: Women's High Jump Qualification
-* Eleanor Patterson
-* Nicola Olyslagers
+### 18:50 - 🏅 Rowing: Women's Eight Final A
+* Australia
 
-### 18:55 - Athletics: Men's Decathlon Long Jump
-* Ashley Moloney
-* Daniel Golubovic
+### 19:00 - Swimming: Women's 50m Freestyle - Heats
+* Meg Harris
+* Shayna Jack
 
-### 19:00 - Swimming: Men's 100m Butterfly - Heats
-* Ben Armbruster
-* Matthew Temple
+### 19:10 - 🏅 Rowing: Men's Eight Final A
+* Australia
 
-### 19:10 - Athletics: Men's 1500m Round 1
+### 19:30 - Swimming: Men's 1500m Freestyle - Heats
+* Samuel Short
+
+### 20:00 - 🏅 Tennis: Men's Doubles Gold Medal Match
+* Ebden / Peers (AUS) vs Krajicek / Ram (USA)
+
+### 20:15 - 21:23 - Sailing: Men's Dinghy
+#### Races: 5, 6
+* Matt Wearn
+
+### 20:40 - Swimming: Men's 4 x 100m Medley Relay - Heats
+* Australia
+
+### 20:45 - Hockey: Women's Pool B
+* AUS vs ESP
+
+### 20:52 - Swimming: Women's 4 x 100m Medley Relay - Heats
+* Australia
+
+### 22:25 - 23:33 - Sailing: Women's Dinghy
+#### Races: 5, 6
+* Zoe Thomson
+
+### 23:00 - Water Polo: Men's Preliminary Round - Group B
+* AUS vs HUN
+
+### 23:45 - 01:29 - Sailing: Mixed Multihull
+#### Races: 1, 2, 3
+* Liddell / Brown
+
+### 23:46 - Boxing: Men's 57kg - Quarterfinal
+* Charlie Senior (AUS) vs Carlo Paalam (PHI)
+
+### 01:05 - 02:12 - Sailing: Mixed Dinghy
+#### Races: 3, 4
+* Jerwood / Nicholas
+
+### 02:35 - 3x3 Basketball: Women's Pool Round
+* AUS vs FRA
+
+### 03:15 - Athletics: Men's 1500m Repechage Round
 * Adam Spencer
 * Oliver Hoare
 * Stewart Mcsweyn
 
-### 19:17 - Swimming: Women's 200m Individual Medley - Heats
-* Ella Ramsay
-* Kaylee Mckeown
+### 03:36 - Surfing: Men's Semifinals - Heat 2
+* Jack Robinson (AUS) vs Gabriel Medina (BRA)
 
-### 19:40 - Swimming: Women's 800m Freestyle - Heats
+### 05:28 - 🏅 Swimming: Women's 800m Freestyle Final
 * Ariarne Titmus
 * Lani Pallister
 
-### 19:42 - 🏅 Rowing: Women's Pair Final A
+### 05:58 - 🏅 Swimming: Mixed 4 x 100m Medley Relay Final
 * Australia
-
-### 19:50 - Athletics: Women's 100m Round 1
-* Bree Masters
-* Ella Connolly
-
-### 20:00 - Shooting: 25m Pistol Women's Qualification Rapid
-* Elena Galiabovitch
-
-### 20:00 - Tennis: Men's Doubles Semi-final
-* Ebden / Peers (AUS) vs Fritz / Paul (USA)
-
-### 20:03 - Swimming: Mixed 4 x 100m Medley Relay - Heats
-* Emma Mckeon
-* Iona Anderson
-* Kyle Chalmers
-* Zac Stubblety-Cook
-
-### 20:05 - 22:21 - Sailing: Women's Dinghy
-#### Races: 2, 3, 4
-* Zoe Thomson
-
-### 20:05 - 21:50 - Sailing: Mixed Dinghy
-#### Races: 1, 2
-* Jerwood / Nicholas
-
-### 20:13 - 🏅 Sailing: Women's Skiff Medal Race
-* Price / Haseldine
-
-### 20:15 - Athletics: Men's Decathlon Shot Put
-* Ashley Moloney
-* Daniel Golubovic
-
-### 20:20 - 21:30 - Sailing: Men's Dinghy
-#### Races: 3, 4
-* Matt Wearn
-
-### 21:15 - Hockey: Men's Pool B
-* AUS vs IND
-
-### 21:30 - Basketball: Men's Group Phase - Group A
-* AUS vs GRE
-
-### 22:00 - Water Polo: Women's Preliminary Round - Group A
-* AUS vs CAN
-
-### 23:30 - Canoe Slalom: Men's Kayak Cross Time Trial
-* Timothy Anderson
-* Tristan Carter
-
-### 00:08 - 🏅 Sailing: Men's Windsurfing - Final
-* Grae Morris
-
-### 00:40 - Canoe Slalom: Women's Kayak Cross Time Trial
-* Jessica Fox
-* Noemie Fox
-
-### 01:54 - Boxing: Men's +92kg - Quarterfinal
-* Teremoana Teremoana (AUS) vs Bakhodir Jalolov (UZB)
-
-### 02:00 - Athletics: Men's Decathlon High Jump
-* Ashley Moloney
-* Daniel Golubovic
-
-### 02:00 - Trampoline Gymnastics: Men's Qualification
-* Brock Batty
-
-### 02:10 - Athletics: Women's 5000m Round 1
-* Isobel Batt-Doyle
-* Lauren Ryan
-* Rose Davies
-
-### 03:45 - Athletics: Women's 800m Round 1
-* Abbey Caldwell
-* Catriona Bisset
-* Claudia Hollingsworth
-
-### 04:20 - Athletics: Women's Discus Throw Qualification - Group B
-* Taryn Gollshewsky
-
-### 04:30 - 🏅 Swimming: Men's 50m Freestyle Final
-* Cameron Mcevoy
-
-### 04:37 - 🏅 Swimming: Women's 200m Backstroke Final
-* Kaylee Mckeown
-
-### 04:48 - Boxing: Women's 57kg - Preliminaries - Round of 16
-* Tina Rahimi (AUS) vs Julia Szeremeta (POL)
-
-### 04:50 - Athletics: Men's Decathlon 400m
-* Ashley Moloney
-* Daniel Golubovic
-
-### 05:05 - Swimming: Men's 100m Butterfly Semifinals
-* Ben Armbruster
-* Matthew Temple
-
-### 05:31 - Swimming: Women's 200m Individual Medley Semifinals
-* Ella Ramsay
-* Kaylee Mckeown
 
