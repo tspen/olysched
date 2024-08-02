@@ -52,6 +52,9 @@
 * Bree Masters
 * Ella Connolly
 
+### 20:00 - Shooting: 25m Pistol Women's Qualification Rapid
+* Elena Galiabovitch
+
 ### 20:00 - Tennis: Men's Doubles Semi-final
 * Ebden / Peers (AUS) vs Fritz / Paul (USA)
 
