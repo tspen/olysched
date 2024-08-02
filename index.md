@@ -143,3 +143,7 @@
 * Ben Armbruster
 * Matthew Temple
 
+### 05:31 - Swimming: Women's 200m Individual Medley Semifinals
+* Ella Ramsay
+* Kaylee Mckeown
+
