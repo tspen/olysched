@@ -68,6 +68,10 @@
 ### 23:00 - Water Polo: Men's Preliminary Round - Group B
 * AUS vs HUN
 
+### 23:30 - Canoe Slalom: Women's Kayak Cross Round 1
+* Jessica Fox
+* Noemie Fox
+
 ### 23:45 - 00:52 - Sailing: Mixed Dinghy
 #### Races: 3, 4
 * Jerwood / Nicholas
@@ -89,6 +93,9 @@
 
 ### 03:36 - Surfing: Men's Semifinals - Heat 2
 * Jack Robinson (AUS) vs Gabriel Medina (BRA)
+
+### 03:50 - Athletics: Women's 100m Semi-Final
+* Bree Masters
 
 ### 05:28 - 🏅 Swimming: Women's 800m Freestyle Final
 * Ariarne Titmus
