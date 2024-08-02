@@ -36,6 +36,10 @@
 ### 19:10 - 🏅 Rowing: Men's Eight Final A
 * Australia
 
+### 19:20 - Athletics: Women's 800m Repechage Round
+* Abbey Caldwell
+* Catriona Bisset
+
 ### 19:30 - Swimming: Men's 1500m Freestyle - Heats
 * Samuel Short
 
