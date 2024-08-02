@@ -37,7 +37,11 @@
 ### 20:00 - 🏅 Tennis: Men's Doubles Gold Medal Match
 * Ebden / Peers (AUS) vs Krajicek / Ram (USA)
 
-### 20:15 - 21:23 - Sailing: Men's Dinghy
+### 20:05 - 21:13 - Sailing: Women's Dinghy
+#### Races: 5, 6
+* Zoe Thomson
+
+### 20:20 - 21:28 - Sailing: Men's Dinghy
 #### Races: 5, 6
 * Matt Wearn
 
@@ -50,20 +54,23 @@
 ### 20:52 - Swimming: Women's 4 x 100m Medley Relay - Heats
 * Australia
 
+### 21:05 - 22:49 - Sailing: Mixed Multihull
+#### Races: 1, 2, 3
+* Liddell / Brown
+
 ### 21:40 - Athletics: Men's Decathlon Pole Vault
 * Ashley Moloney
 * Daniel Golubovic
 
-### 22:25 - 23:33 - Sailing: Women's Dinghy
-#### Races: 5, 6
-* Zoe Thomson
+### 22:03 - 🏅 Sailing: Men's Windsurfing - Final
+* Grae Morris
 
 ### 23:00 - Water Polo: Men's Preliminary Round - Group B
 * AUS vs HUN
 
-### 23:45 - 01:29 - Sailing: Mixed Multihull
-#### Races: 1, 2, 3
-* Liddell / Brown
+### 23:45 - 00:52 - Sailing: Mixed Dinghy
+#### Races: 3, 4
+* Jerwood / Nicholas
 
 ### 23:46 - Boxing: Men's 57kg - Quarterfinal
 * Charlie Senior (AUS) vs Carlo Paalam (PHI)
@@ -71,10 +78,6 @@
 ### 00:40 - Canoe Slalom: Men's Kayak Cross Round 1
 * Timothy Anderson
 * Tristan Carter
-
-### 01:05 - 02:12 - Sailing: Mixed Dinghy
-#### Races: 3, 4
-* Jerwood / Nicholas
 
 ### 02:35 - 3x3 Basketball: Women's Pool Round
 * AUS vs FRA
