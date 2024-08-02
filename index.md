@@ -52,7 +52,10 @@
 * Ebden / Peers (AUS) vs Fritz / Paul (USA)
 
 ### 20:03 - Swimming: Mixed 4 x 100m Medley Relay - Heats
-* Australia
+* Emma Mckeon
+* Iona Anderson
+* Kyle Chalmers
+* Zac Stubblety-Cook
 
 ### 20:05 - 22:21 - Sailing: Women's Dinghy
 #### Races: 2, 3, 4
@@ -119,7 +122,7 @@
 ### 04:30 - 🏅 Swimming: Men's 50m Freestyle Final
 * Cameron Mcevoy
 
-### 04:36 - 🏅 Swimming: Women's 200m Backstroke Final
+### 04:37 - 🏅 Swimming: Women's 200m Backstroke Final
 * Kaylee Mckeown
 
 ### 04:48 - Boxing: Women's 57kg - Preliminaries - Round of 16
