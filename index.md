@@ -139,3 +139,7 @@
 * Ashley Moloney
 * Daniel Golubovic
 
+### 05:05 - Swimming: Men's 100m Butterfly Semifinals
+* Ben Armbruster
+* Matthew Temple
+
