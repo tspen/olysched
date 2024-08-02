@@ -12,7 +12,6 @@
 * Australia
 
 ### 18:05 - Athletics: Men's Decathlon 110m Hurdles
-* Ashley Moloney
 * Daniel Golubovic
 
 ### 18:10 - Athletics: Men's Pole Vault Qualification
@@ -68,7 +67,6 @@
 * Liddell / Brown
 
 ### 21:40 - Athletics: Men's Decathlon Pole Vault
-* Ashley Moloney
 * Daniel Golubovic
 
 ### 22:03 - 🏅 Sailing: Men's Windsurfing - Final
