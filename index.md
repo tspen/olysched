@@ -68,6 +68,10 @@
 ### 23:46 - Boxing: Men's 57kg - Quarterfinal
 * Charlie Senior (AUS) vs Carlo Paalam (PHI)
 
+### 00:40 - Canoe Slalom: Men's Kayak Cross Round 1
+* Timothy Anderson
+* Tristan Carter
+
 ### 01:05 - 02:12 - Sailing: Mixed Dinghy
 #### Races: 3, 4
 * Jerwood / Nicholas
