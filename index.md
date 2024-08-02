@@ -37,8 +37,8 @@
 ### 20:00 - 🏅 Tennis: Men's Doubles Gold Medal Match
 * Ebden / Peers (AUS) vs Krajicek / Ram (USA)
 
-### 20:05 - 21:13 - Sailing: Women's Dinghy
-#### Races: 5, 6
+### 20:05 - 22:21 - Sailing: Women's Dinghy
+#### Races: 4, 5, 6
 * Zoe Thomson
 
 ### 20:20 - 21:28 - Sailing: Men's Dinghy
