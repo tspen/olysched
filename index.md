@@ -2,6 +2,13 @@
 
 ## 3 August
 
+### 17:00 - Golf: Men's Individual Stroke Play Round 3
+* Jason Day
+* Min Woo Lee
+
+### 17:00 - Shooting: Skeet Men's Qualification - Day 2
+* Joshua Bell
+
 ### 17:00 - Shooting: Skeet Women's Qualification - Day 1
 * Aislin Jones
 
@@ -44,6 +51,9 @@
 
 ### 20:00 - 🏅 Tennis: Men's Doubles Gold Medal Match
 * Ebden / Peers (AUS) vs Krajicek / Ram (USA)
+
+### 20:05 - Athletics: Men's Decathlon Discus Throw - Group B
+* Daniel Golubovic
 
 ### 20:05 - 22:21 - Sailing: Women's Dinghy
 #### Races: 4, 5, 6
