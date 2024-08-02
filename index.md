@@ -48,6 +48,10 @@
 ### 19:42 - 🏅 Rowing: Women's Pair Final A
 * Australia
 
+### 19:50 - Athletics: Women's 100m Round 1
+* Bree Masters
+* Ella Connolly
+
 ### 20:00 - Tennis: Men's Doubles Semi-final
 * Ebden / Peers (AUS) vs Fritz / Paul (USA)
 
