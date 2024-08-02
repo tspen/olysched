@@ -104,6 +104,13 @@
 ### 03:50 - Athletics: Women's 100m Semi-Final
 * Bree Masters
 
+### 04:30 - 🏅 Swimming: Men's 100m Butterfly Final
+* Matthew Temple
+
+### 05:08 - 🏅 Swimming: Women's 200m Individual Medley Final
+* Ella Ramsay
+* Kaylee Mckeown
+
 ### 05:28 - 🏅 Swimming: Women's 800m Freestyle Final
 * Ariarne Titmus
 * Lani Pallister
