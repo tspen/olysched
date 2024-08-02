@@ -24,6 +24,11 @@
 ### 18:50 - 🏅 Rowing: Women's Eight Final A
 * Australia
 
+### 19:00 - 🏅 Cycling Road: Men's Road Race
+* Ben O'connor
+* Michael Matthews
+* Simon Clarke
+
 ### 19:00 - Swimming: Women's 50m Freestyle - Heats
 * Meg Harris
 * Shayna Jack
