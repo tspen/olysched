@@ -31,6 +31,10 @@
 #### Races: 4, 5, 6
 * Liddell / Brown
 
+### 20:33 - 22:33 - Sailing: Women's Kite
+#### Races: 1, 2, 3, 4
+* Breiana Whitehead
+
 ### 20:35 - Athletics: Women's 400m Hurdles Round 1
 * Alanah Yukich
 * Sarah Carli
