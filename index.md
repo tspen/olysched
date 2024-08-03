@@ -69,8 +69,18 @@
 ### 01:30 - Hockey: Men's Quarter-final
 * AUS vs NED
 
+### 02:30 - 🏅 Swimming: Women's 50m Freestyle Final
+* Meg Harris
+* Shayna Jack
+
 ### 03:05 - Athletics: Men's 400m Round 1
 * Reece Holder
+
+### 03:10 - 🏅 Swimming: Men's 4 x 100m Medley Relay Final
+* Australia
+
+### 03:32 - 🏅 Swimming: Women's 4 x 100m Medley Relay Final
+* Australia
 
 ### 03:55 - 🏅 Athletics: Women's High Jump Final
 * Eleanor Patterson
