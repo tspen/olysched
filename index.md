@@ -51,6 +51,10 @@
 #### Races: 7, 8
 * Zoe Thomson
 
+### 23:30 - Canoe Slalom: Men's Kayak Cross Heats
+* Timothy Anderson
+* Tristan Carter
+
 ### 00:45 - Canoe Slalom: Women's Kayak Cross Heats
 * Jessica Fox
 * Noemie Fox
