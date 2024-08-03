@@ -51,6 +51,10 @@
 #### Races: 7, 8
 * Zoe Thomson
 
+### 00:45 - Canoe Slalom: Women's Kayak Cross Heats
+* Jessica Fox
+* Noemie Fox
+
 ### 01:05 - 02:12 - Sailing: Mixed Dinghy
 #### Races: 5, 6
 * Jerwood / Nicholas
