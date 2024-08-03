@@ -2,12 +2,22 @@
 
 ## 4 August
 
+### 17:00 - 🏅 Golf: Men's Individual Stroke Play Round 4
+* Jason Day
+* Min Woo Lee
+
 ### 17:00 - Shooting: 25m Rapid Fire Pistol Men's Qualification - Stage 1
 * Sergei Evglevski
+
+### 17:30 - Shooting: Skeet Women's Qualification - Day 2
+* Aislin Jones
 
 ### 18:05 - Athletics: Women's 3000m Steeplechase Round 1
 * Amy Cashin
 * Cara Feain-Ryan
+
+### 18:20 - Athletics: Women's Hammer Throw Qualification - Group A
+* Stephanie Ratcliffe
 
 ### 18:55 - Athletics: Women's 200m Round 1
 * Mia Gross
