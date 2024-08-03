@@ -108,9 +108,6 @@
 * Oliver Hoare
 * Stewart Mcsweyn
 
-### 03:36 - Surfing: Men's Semifinals - Heat 2
-* Jack Robinson (AUS) vs Gabriel Medina (BRA)
-
 ### 03:50 - Athletics: Women's 100m Semi-Final
 * Bree Masters
 
@@ -127,4 +124,7 @@
 
 ### 05:58 - 🏅 Swimming: Mixed 4 x 100m Medley Relay Final
 * Australia
+
+### 08:36 - Surfing: Men's Semifinals - Heat 2
+* Jack Robinson (AUS) vs Gabriel Medina (BRA)
 
