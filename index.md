@@ -59,6 +59,9 @@
 * Jessica Fox
 * Noemie Fox
 
+### 01:00 - Beach Volleyball: Women's Round of 16
+* Mariafe / Clancy (AUS) vs Carol / Barbara (BRA)
+
 ### 01:05 - 02:12 - Sailing: Mixed Dinghy
 #### Races: 5, 6
 * Jerwood / Nicholas
