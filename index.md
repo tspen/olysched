@@ -124,6 +124,10 @@
 ### 04:30 - 🏅 Swimming: Men's 100m Butterfly Final
 * Matthew Temple
 
+### 04:39 - Swimming: Women's 50m Freestyle Semifinals
+* Meg Harris
+* Shayna Jack
+
 ### 05:08 - 🏅 Swimming: Women's 200m Individual Medley Final
 * Ella Ramsay
 * Kaylee Mckeown
