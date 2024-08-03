@@ -64,13 +64,19 @@
 * Matt Wearn
 
 ### 20:40 - Swimming: Men's 4 x 100m Medley Relay - Heats
-* Australia
+* Ben Armbruster
+* Isaac Cooper
+* Joshua Yong
+* Kyle Chalmers
 
 ### 20:45 - Hockey: Women's Pool B
 * AUS vs ESP
 
 ### 20:52 - Swimming: Women's 4 x 100m Medley Relay - Heats
-* Australia
+* Alexandria Perkins
+* Ella Ramsay
+* Iona Anderson
+* Meg Harris
 
 ### 21:05 - 22:49 - Sailing: Mixed Multihull
 #### Races: 1, 2, 3
