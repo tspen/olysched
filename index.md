@@ -49,6 +49,10 @@
 ### 19:30 - Swimming: Men's 1500m Freestyle - Heats
 * Samuel Short
 
+### 19:55 - Athletics: Men's 100m Round 1
+* Joshua Azzopardi
+* Rohan Browning
+
 ### 20:00 - 🏅 Tennis: Men's Doubles Gold Medal Match
 * Ebden / Peers (AUS) vs Krajicek / Ram (USA)
 
@@ -130,6 +134,9 @@
 
 ### 05:58 - 🏅 Swimming: Mixed 4 x 100m Medley Relay Final
 * Australia
+
+### 07:00 - Beach Volleyball: Men's lucky loser round
+* Hodges / Schubert (AUS) vs Evans / Budinger (USA)
 
 ### 08:36 - Surfing: Men's Semifinals - Heat 2
 * Jack Robinson (AUS) vs Gabriel Medina (BRA)
