@@ -54,6 +54,10 @@
 ### 23:00 - Table Tennis: Men's Team Round of 16
 * AUS vs JPN
 
+### 23:52 - Canoe Slalom: Men's Kayak Cross Quarterfinal
+* Timothy Anderson
+* Tristan Carter
+
 ### 01:05 - 02:12 - Sailing: Mixed Dinghy
 #### Races: 7, 8
 * Jerwood / Nicholas
