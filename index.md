@@ -49,6 +49,9 @@
 * Alanah Yukich
 * Sarah Carli
 
+### 21:00 - Shooting: 25m Rapid Fire Pistol Men's Qualification - Stage 2
+* Sergei Evglevski
+
 ### 22:00 - 🏅 Cycling Road: Women's Road Race
 * Grace Brown
 * Lauretta Hanson
