@@ -62,12 +62,18 @@
 #### Races: 7, 8
 * Jerwood / Nicholas
 
+### 01:27 - Cycling Track: Men's Team Pursuit, Qualifying
+* Australia
+
 ### 03:00 - 🏅 Athletics: Men's Pole Vault Final
 * Kurtis Marschall
 
 ### 03:04 - Athletics: Men's 3000m Steeplechase Round 1
 * Ben Buckingham
 * Matthew Clarke
+
+### 03:09 - Cycling Track: Men's Team Sprint, Qualifying
+* Australia
 
 ### 03:30 - Artistic Swimming: Team Technical Routine
 * Australia
