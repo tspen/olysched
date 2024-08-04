@@ -50,7 +50,7 @@
 ### 21:35 - Water Polo: Men's Preliminary Round - Group B
 * AUS vs JPN
 
-### 22:40 - 23:45 - Sailing: Men's Dinghy
+### 22:45 - 23:50 - Sailing: Men's Dinghy
 #### Races: 9, 10
 * Matt Wearn
 
@@ -60,13 +60,13 @@
 ### 23:30 - Canoe Slalom: Women's Kayak Cross Quarterfinal
 * Noemie Fox
 
+### 23:35 - 00:42 - Sailing: Mixed Dinghy
+#### Races: 7, 8
+* Jerwood / Nicholas
+
 ### 23:52 - Canoe Slalom: Men's Kayak Cross Quarterfinal
 * Timothy Anderson
 * Tristan Carter
-
-### 01:05 - 02:12 - Sailing: Mixed Dinghy
-#### Races: 7, 8
-* Jerwood / Nicholas
 
 ### 01:27 - Cycling Track: Men's Team Pursuit, Qualifying
 * Australia
