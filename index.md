@@ -41,7 +41,7 @@
 #### Races: 5, 6
 * Jerwood / Nicholas
 
-### 20:33 - 22:33 - Sailing: Women's Kite
+### 20:33 - 21:48 - Sailing: Women's Kite
 #### Races: 1, 2, 3, 4
 * Breiana Whitehead
 
