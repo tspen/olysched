@@ -15,6 +15,9 @@
 ### 18:00 - Hockey: Women's Quarter-final
 * AUS vs CHN
 
+### 18:00 - Sport Climbing: Men's Boulder & Lead, Semifinal Boulder
+* Campbell Harrison
+
 ### 18:10 - Athletics: Men's Discus Throw Qualification - Group A
 * Matthew Denny
 
@@ -53,6 +56,9 @@
 
 ### 23:00 - Table Tennis: Men's Team Round of 16
 * AUS vs JPN
+
+### 23:30 - Canoe Slalom: Women's Kayak Cross Quarterfinal
+* Noemie Fox
 
 ### 23:52 - Canoe Slalom: Men's Kayak Cross Quarterfinal
 * Timothy Anderson
