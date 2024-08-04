@@ -1,108 +1,79 @@
 # 🇦🇺 Olympic Events
 
-## 4 August
+## 5 August
 
-### 17:00 - 🏅 Golf: Men's Individual Stroke Play Round 4
-* Jason Day
-* Min Woo Lee
+### 16:00 - 🏅 Triathlon: Mixed Relay
+* Australia
 
-### 17:00 - Shooting: 25m Rapid Fire Pistol Men's Qualification - Stage 1
-* Sergei Evglevski
+### 17:00 - Shooting: Skeet Mixed Team Qualification
+* Australia
 
-### 17:30 - Shooting: Skeet Women's Qualification - Day 2
-* Aislin Jones
+### 18:00 - Diving: Women's 10m Platform Preliminary
+* Ellie Cole
+* Melissa Wu
 
-### 18:05 - Athletics: Women's 3000m Steeplechase Round 1
-* Amy Cashin
-* Cara Feain-Ryan
+### 18:00 - Hockey: Women's Quarter-final
+* AUS vs CHN
 
-### 18:20 - Athletics: Women's Hammer Throw Qualification - Group A
-* Stephanie Ratcliffe
+### 18:10 - Athletics: Men's Discus Throw Qualification - Group A
+* Matthew Denny
 
-### 18:55 - Athletics: Women's 200m Round 1
-* Mia Gross
-* Torrie Lewis
+### 18:40 - Athletics: Women's Pole Vault Qualification
+* Nina Kennedy
 
-### 19:00 - Athletics: Men's Long Jump Qualification
-* Christopher Mitrevski
-* Liam Adcock
-
-### 19:48 - Boxing: Women's 75kg - Quarterfinal
-* Caitlin Parker (AUS) vs Khadija Mardi (MAR)
-
-### 19:50 - Athletics: Men's 110m Hurdles Round 1
-* Tayleb Willis
-
-### 20:05 - 21:13 - Sailing: Men's Dinghy
-#### Races: 7, 8
-* Matt Wearn
-
-### 20:05 - 21:12 - Sailing: Mixed Dinghy
-#### Races: 5, 6
-* Jerwood / Nicholas
-
-### 20:33 - 21:48 - Sailing: Women's Kite
-#### Races: 1, 2, 3, 4
-* Breiana Whitehead
-
-### 20:35 - Athletics: Women's 400m Hurdles Round 1
+### 18:50 - Athletics: Women's 400m Hurdles Repechage Round
 * Alanah Yukich
 * Sarah Carli
 
-### 21:00 - Shooting: 25m Rapid Fire Pistol Men's Qualification - Stage 2
-* Sergei Evglevski
+### 19:55 - Athletics: Women's 400m Round 1
+* Ellie Beer
 
-### 22:00 - 🏅 Cycling Road: Women's Road Race
-* Grace Brown
-* Lauretta Hanson
-* Ruby Roseman-Gannon
+### 20:03 - 21:18 - Sailing: Women's Kite
+#### Races: 5, 6, 7, 8
+* Breiana Whitehead
 
-### 22:00 - Water Polo: Women's Preliminary Round - Group A
-* AUS vs HUN
-
-### 22:35 - 23:45 - Sailing: Women's Dinghy
-#### Races: 7, 8
-* Zoe Thomson
-
-### 23:30 - Canoe Slalom: Men's Kayak Cross Heats
-* Timothy Anderson
-* Tristan Carter
-
-### 23:45 - 01:29 - Sailing: Mixed Multihull
-#### Races: 4, 5, 6
+### 20:05 - 21:49 - Sailing: Mixed Multihull
+#### Races: 7, 8, 9
 * Liddell / Brown
 
-### 00:45 - Canoe Slalom: Women's Kayak Cross Heats
-* Jessica Fox
-* Noemie Fox
+### 20:15 - 21:23 - Sailing: Women's Dinghy
+#### Races: 9, 10
+* Zoe Thomson
 
-### 01:00 - Beach Volleyball: Women's Round of 16
-* Mariafe / Clancy (AUS) vs Carol / Barbara (BRA)
+### 20:50 - Athletics: Women's 200m Repechage Round
+* Mia Gross
+* Torrie Lewis
 
-### 01:30 - Hockey: Men's Quarter-final
-* AUS vs NED
+### 21:35 - Water Polo: Men's Preliminary Round - Group B
+* AUS vs JPN
 
-### 02:30 - 🏅 Swimming: Women's 50m Freestyle Final
-* Meg Harris
-* Shayna Jack
+### 22:40 - 23:45 - Sailing: Men's Dinghy
+#### Races: 9, 10
+* Matt Wearn
 
-### 03:05 - Athletics: Men's 400m Round 1
-* Reece Holder
+### 23:00 - Table Tennis: Men's Team Round of 16
+* AUS vs JPN
 
-### 03:10 - 🏅 Swimming: Men's 4 x 100m Medley Relay Final
+### 01:05 - 02:12 - Sailing: Mixed Dinghy
+#### Races: 7, 8
+* Jerwood / Nicholas
+
+### 03:00 - 🏅 Athletics: Men's Pole Vault Final
+* Kurtis Marschall
+
+### 03:04 - Athletics: Men's 3000m Steeplechase Round 1
+* Ben Buckingham
+* Matthew Clarke
+
+### 03:30 - Artistic Swimming: Team Technical Routine
 * Australia
 
-### 03:32 - 🏅 Swimming: Women's 4 x 100m Medley Relay Final
-* Australia
+### 03:36 - Surfing: Men's Semifinals - Heat 2
+* Jack Robinson (AUS) vs Gabriel Medina (BRA)
 
-### 03:55 - 🏅 Athletics: Women's High Jump Final
-* Eleanor Patterson
-* Nicola Olyslagers
+### 03:55 - Athletics: Men's 200m Round 1
+* Calab Law
 
-### 04:35 - Athletics: Women's 800m Semi-Final
-* Abbey Caldwell
-* Claudia Hollingsworth
-
-### 05:00 - Basketball: Women's Group Phase - Group B
-* AUS vs FRA
+### 05:15 - 🏅 Athletics: Women's 5000m Final
+* Rose Davies
 
