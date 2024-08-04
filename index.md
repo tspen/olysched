@@ -50,6 +50,11 @@
 ### 21:35 - Water Polo: Men's Preliminary Round - Group B
 * AUS vs JPN
 
+### 22:00 - Equestrian: Jumping Individual Qualifier
+* Edwina Tops-Alexander
+* Hilary Scott
+* Thaisa Erwin
+
 ### 22:45 - 23:50 - Sailing: Men's Dinghy
 #### Races: 9, 10
 * Matt Wearn
