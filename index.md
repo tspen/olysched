@@ -37,9 +37,9 @@
 #### Races: 7, 8
 * Matt Wearn
 
-### 20:05 - 21:49 - Sailing: Mixed Multihull
-#### Races: 4, 5, 6
-* Liddell / Brown
+### 20:05 - 21:12 - Sailing: Mixed Dinghy
+#### Races: 5, 6
+* Jerwood / Nicholas
 
 ### 20:33 - 22:33 - Sailing: Women's Kite
 #### Races: 1, 2, 3, 4
@@ -65,16 +65,16 @@
 * Timothy Anderson
 * Tristan Carter
 
+### 23:45 - 01:29 - Sailing: Mixed Multihull
+#### Races: 4, 5, 6
+* Liddell / Brown
+
 ### 00:45 - Canoe Slalom: Women's Kayak Cross Heats
 * Jessica Fox
 * Noemie Fox
 
 ### 01:00 - Beach Volleyball: Women's Round of 16
 * Mariafe / Clancy (AUS) vs Carol / Barbara (BRA)
-
-### 01:05 - 02:12 - Sailing: Mixed Dinghy
-#### Races: 5, 6
-* Jerwood / Nicholas
 
 ### 01:30 - Hockey: Men's Quarter-final
 * AUS vs NED
