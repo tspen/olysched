@@ -99,6 +99,9 @@
 ### 03:55 - Athletics: Men's 200m Round 1
 * Calab Law
 
+### 04:45 - Athletics: Women's 200m Semi-Final
+* Torrie Lewis
+
 ### 05:15 - 🏅 Athletics: Women's 5000m Final
 * Rose Davies
 
