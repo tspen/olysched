@@ -64,8 +64,17 @@
 #### Races: 10, 11, 12
 * Liddell / Brown
 
+### 01:30 - Cycling Track: Women's Team Pursuit, Qualifying
+* Australia
+
 ### 03:00 - Water Polo: Women's Quarterfinal
 * AUS vs GRE
+
+### 03:14 - Cycling Track: Men's Team Pursuit, First Round
+* Conor Leahy
+* Kell O'brien
+* Oliver Bleddyn
+* Sam Welsford
 
 ### 03:30 - Artistic Swimming: Team Free Routine
 * Australia
