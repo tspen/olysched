@@ -68,6 +68,9 @@
 * Ellie Cole
 * Melissa Wu
 
+### 23:43 - 🏅 Sailing: Men's Dinghy Medal Race
+* Matt Wearn
+
 ### 01:30 - Cycling Track: Women's Team Pursuit, Qualifying
 * Australia
 
