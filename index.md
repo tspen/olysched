@@ -57,6 +57,10 @@
 #### Races: 6, 7, 8, 9, 10
 * Breiana Whitehead
 
+### 20:30 - Skateboarding: Women's Park Prelims
+* Arisa Trew
+* Ruby Trew
+
 ### 22:30 - Basketball: Men's Quarterfinal
 * AUS vs SRB
 
@@ -66,6 +70,11 @@
 
 ### 01:30 - Cycling Track: Women's Team Pursuit, Qualifying
 * Australia
+
+### 02:59 - Cycling Track: Men's Team Sprint, First Round
+* Leigh Hoffman
+* Matthew Glaetzer
+* Matthew Richardson
 
 ### 03:00 - Water Polo: Women's Quarterfinal
 * AUS vs GRE
