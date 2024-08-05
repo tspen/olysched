@@ -56,6 +56,10 @@
 ### 22:30 - Basketball: Men's Quarterfinal
 * AUS vs SRB
 
+### 23:00 - 🏅 Diving: Women's 10m Platform Final
+* Ellie Cole
+* Melissa Wu
+
 ### 23:05 - 00:49 - Sailing: Mixed Multihull
 #### Races: 10, 11, 12
 * Liddell / Brown
