@@ -59,6 +59,10 @@
 #### Races: 9, 10
 * Matt Wearn
 
+### 23:00 - Diving: Women's 10m Platform Semifinal
+* Ellie Cole
+* Melissa Wu
+
 ### 23:00 - Table Tennis: Men's Team Round of 16
 * AUS vs JPN
 
