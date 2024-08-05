@@ -57,6 +57,9 @@
 #### Races: 6, 7, 8, 9, 10
 * Breiana Whitehead
 
+### 20:30 - Athletics: Men's 200m Repechage Round
+* Calab Law
+
 ### 20:30 - Skateboarding: Women's Park Prelims
 * Arisa Trew
 * Ruby Trew
