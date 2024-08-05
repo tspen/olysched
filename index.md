@@ -41,17 +41,21 @@
 * Jean van Der Westhuyzen
 * Tom Green
 
+### 20:05 - 21:49 - Sailing: Mixed Multihull
+#### Races: 10, 11, 12
+* Liddell / Brown
+
 ### 20:10 - Canoe Sprint: Women's Kayak Double 500m Heats
 * Aly Bull
 * Ella Beere
 
-### 20:13 - 21:28 - Sailing: Women's Kite
-#### Races: 9, 10, 11, 12
-* Breiana Whitehead
-
-### 20:15 - 21:22 - Sailing: Mixed Dinghy
-#### Races: 9, 10
+### 20:15 - 23:36 - Sailing: Mixed Dinghy
+#### Races: 7, 8, 9, 10
 * Jerwood / Nicholas
+
+### 20:23 - 22:03 - Sailing: Women's Kite
+#### Races: 6, 7, 8, 9, 10
+* Breiana Whitehead
 
 ### 22:30 - Basketball: Men's Quarterfinal
 * AUS vs SRB
@@ -59,10 +63,6 @@
 ### 23:00 - 🏅 Diving: Women's 10m Platform Final
 * Ellie Cole
 * Melissa Wu
-
-### 23:05 - 00:49 - Sailing: Mixed Multihull
-#### Races: 10, 11, 12
-* Liddell / Brown
 
 ### 01:30 - Cycling Track: Women's Team Pursuit, Qualifying
 * Australia
