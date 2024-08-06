@@ -47,7 +47,7 @@
 * Peter Bol
 * Peyton Craig
 
-### 20:03 - 01:23 - Sailing: Women's Kite
+### 20:03 - 00:00 - Sailing: Women's Kite
 #### Races: 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
 * Breiana Whitehead
 
@@ -70,9 +70,18 @@
 * Chloe Moran
 * Kristina Clonan
 
+### 21:52 - Cycling Track: Women's Team Pursuit, First Round
+* Chloe Moran
+* Georgia Baker
+* Maeve Plouffe
+* Sophie Edwards
+
 ### 23:00 - Diving: Women's 3m Springboard Preliminary
 * Alysha Koloi
 * Maddison Keeney
+
+### 23:43 - 🏅 Sailing: Mixed Dinghy Medal Race
+* Jerwood / Nicholas
 
 ### 02:15 - 🏅 Athletics: Women's Pole Vault Final
 * Nina Kennedy
