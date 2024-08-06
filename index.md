@@ -67,6 +67,12 @@
 * Arisa Trew
 * Ruby Trew
 
+### 21:10 - Canoe Sprint: Men's Kayak Four 500m Quarterfinals
+* Jackson Collins
+* Noah Havard
+* Pierre van Der Westhuyzen
+* Riley Fitzsimmons
+
 ### 22:30 - Basketball: Men's Quarterfinal
 * AUS vs SRB
 
