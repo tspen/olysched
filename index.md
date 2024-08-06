@@ -47,8 +47,8 @@
 * Peter Bol
 * Peyton Craig
 
-### 20:13 - 00:23 - Sailing: Women's Kite
-#### Races: 11, 12, 13, 14, 15, 16
+### 20:03 - 01:23 - Sailing: Women's Kite
+#### Races: 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
 * Breiana Whitehead
 
 ### 20:30 - Skateboarding: Men's Park Prelims
@@ -62,6 +62,9 @@
 ### 20:45 - Cycling Track: Men's Sprint, Qualifying
 * Leigh Hoffman
 * Matthew Richardson
+
+### 21:13 - 🏅 Sailing: Men's Dinghy Medal Race
+* Matt Wearn
 
 ### 21:26 - Cycling Track: Women's Keirin, First Round
 * Chloe Moran
