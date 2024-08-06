@@ -73,6 +73,10 @@
 * Pierre van Der Westhuyzen
 * Riley Fitzsimmons
 
+### 22:10 - Canoe Sprint: Women's Kayak Double 500m Quarterfinals
+* Aly Bull
+* Ella Beere
+
 ### 22:30 - Basketball: Men's Quarterfinal
 * AUS vs SRB
 
