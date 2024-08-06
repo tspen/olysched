@@ -1,121 +1,88 @@
 # 🇦🇺 Olympic Events
 
-## 6 August
+## 7 August
 
-### 17:30 - Canoe Sprint: Men's Kayak Four 500m Heats
-* Jackson Collins
-* Noah Havard
-* Pierre van Der Westhuyzen
-* Riley Fitzsimmons
+### 15:30 - 🏅 Athletics: Marathon Race Walk Relay Mixed
+* Cowley R / Montag J
+* Tingay D / Henderson R
 
-### 18:00 - Canoe Sprint: Women's Kayak Four 500m Heats
-* Alexandra Clarke
-* Aly Bull
-* Ella Beere
-* Yale Steinepreis
+### 17:00 - Golf: Women's Individual Stroke Play Round 1
+* Hannah Green
+* Minjee Lee
 
-### 18:00 - Diving: Men's 3m Springboard Preliminary
+### 17:30 - Canoe Sprint: Women's Kayak Single 500m Heats
+* Alyce Wood
+
+### 18:00 - Diving: Men's 3m Springboard Semifinal
 * Kurtis Mathews
 
-### 18:00 - Sport Climbing: Women's Boulder & Lead, Semifinal Boulder
-* Oceania Mackenzie
+### 18:00 - Sport Climbing: Men's Boulder & Lead, Semifinal Lead
+* Campbell Harrison
 
-### 18:00 - Table Tennis: Women's Team Round of 16
-* AUS vs TPE
+### 18:05 - Athletics: Men's High Jump Qualification
+* Brandon Starc
+* Joel Baden
+* Yual Reath
 
-### 18:05 - Athletics: Women's 1500m Round 1
-* Georgia Griffith
-* Jessica Hull
-* Linden Hall
+### 18:15 - Athletics: Women's 100m Hurdles Round 1
+* Celeste Mucci
+* Liz Clay
+* Michelle Jenneke
 
-### 18:50 - Athletics: Men's 110m Hurdles Repechage Round
-* Tayleb Willis
+### 18:35 - Taekwondo: Men -58kg Round of 16
+* Bailey Lewis (AUS) vs Nouridine Issaka Garba (NIG)
 
-### 19:15 - Athletics: Women's Long Jump Qualification
-* Brooke Buschkuehl
-
-### 19:20 - Athletics: Women's 400m Repechage Round
-* Ellie Beer
-
-### 19:30 - Canoe Sprint: Men's Kayak Double 500m Heats
-* Jean van Der Westhuyzen
+### 18:40 - Canoe Sprint: Men's Kayak Single 1000m Heats
 * Tom Green
 
-### 19:50 - Athletics: Men's Javelin Throw Qualification - Group B
-* Cameron Mcentyre
-
-### 20:05 - 21:49 - Sailing: Mixed Multihull
-#### Races: 10, 11, 12
-* Liddell / Brown
-
-### 20:10 - Canoe Sprint: Women's Kayak Double 500m Heats
-* Aly Bull
-* Ella Beere
-
-### 20:15 - 23:36 - Sailing: Mixed Dinghy
-#### Races: 7, 8, 9, 10
-* Jerwood / Nicholas
-
-### 20:23 - 22:03 - Sailing: Women's Kite
-#### Races: 6, 7, 8, 9, 10
-* Breiana Whitehead
-
-### 20:30 - Athletics: Men's 200m Repechage Round
-* Calab Law
-
-### 20:30 - Skateboarding: Women's Park Prelims
-* Arisa Trew
-* Ruby Trew
-
-### 21:10 - Canoe Sprint: Men's Kayak Four 500m Quarterfinals
-* Jackson Collins
-* Noah Havard
-* Pierre van Der Westhuyzen
-* Riley Fitzsimmons
-
-### 22:10 - Canoe Sprint: Women's Kayak Double 500m Quarterfinals
-* Aly Bull
-* Ella Beere
-
-### 22:30 - Basketball: Men's Quarterfinal
+### 19:00 - Basketball: Women's Quarterfinal
 * AUS vs SRB
 
-### 23:00 - 🏅 Diving: Women's 10m Platform Final
-* Ellie Cole
-* Melissa Wu
+### 19:10 - Athletics: Men's 5000m Round 1
+* Morgan Mcdonald
+* Stewart Mcsweyn
 
-### 23:43 - 🏅 Sailing: Men's Dinghy Medal Race
-* Matt Wearn
+### 19:55 - Athletics: Men's 800m Round 1
+* Joseph Deng
+* Peter Bol
+* Peyton Craig
 
-### 01:30 - Cycling Track: Women's Team Pursuit, Qualifying
-* Australia
+### 20:13 - 00:23 - Sailing: Women's Kite
+#### Races: 11, 12, 13, 14, 15, 16
+* Breiana Whitehead
 
-### 01:30 - 🏅 Skateboarding: Women's Park Final
-* Arisa Trew
+### 20:30 - Skateboarding: Men's Park Prelims
+* Keefer Wilson
+* Keegan Palmer
+* Kieran Woolley
 
-### 02:59 - Cycling Track: Men's Team Sprint, First Round
+### 20:45 - Athletics: Women's 1500m Repechage Round
+* Linden Hall
+
+### 20:45 - Cycling Track: Men's Sprint, Qualifying
 * Leigh Hoffman
-* Matthew Glaetzer
 * Matthew Richardson
 
-### 03:00 - Water Polo: Women's Quarterfinal
-* AUS vs GRE
+### 21:26 - Cycling Track: Women's Keirin, First Round
+* Chloe Moran
+* Kristina Clonan
 
-### 03:14 - Cycling Track: Men's Team Pursuit, First Round
-* Conor Leahy
-* Kell O'brien
-* Oliver Bleddyn
-* Sam Welsford
+### 23:00 - Diving: Women's 3m Springboard Preliminary
+* Alysha Koloi
+* Maddison Keeney
 
-### 03:30 - Artistic Swimming: Team Free Routine
+### 02:15 - 🏅 Athletics: Women's Pole Vault Final
+* Nina Kennedy
+
+### 03:00 - Water Polo: Men's Quarterfinal
+* AUS vs USA
+
+### 03:15 - Athletics: Men's Triple Jump Qualification
+* Connor Murphy
+
+### 03:30 - 🏅 Artistic Swimming: Team Acrobatic Routine
 * Australia
 
-### 03:35 - Athletics: Men's 400m Semi-Final
-* Reece Holder
-
-### 04:07 - Athletics: Women's 400m Hurdles Semi-Final
-* Alanah Yukich
-
-### 05:00 - Beach Volleyball: Women's Quarterfinal
-* Mariafe / Clancy (AUS) vs Esmee / Zoe (SUI)
+### 04:25 - 🏅 Athletics: Men's Discus Throw Final
+* Matthew Denny
 
