@@ -41,6 +41,9 @@
 * Jean van Der Westhuyzen
 * Tom Green
 
+### 19:50 - Athletics: Men's Javelin Throw Qualification - Group B
+* Cameron Mcentyre
+
 ### 20:05 - 21:49 - Sailing: Mixed Multihull
 #### Races: 10, 11, 12
 * Liddell / Brown
