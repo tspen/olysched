@@ -90,6 +90,9 @@
 ### 01:30 - Cycling Track: Women's Team Pursuit, Qualifying
 * Australia
 
+### 01:30 - 🏅 Skateboarding: Women's Park Final
+* Arisa Trew
+
 ### 02:59 - Cycling Track: Men's Team Sprint, First Round
 * Leigh Hoffman
 * Matthew Glaetzer
