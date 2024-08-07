@@ -55,6 +55,10 @@
 ### 20:03 - Wrestling: Men's Freestyle 86kg 1/8 Final
 * Jayden Alexander Lawrence (AUS) vs Hassan Yazdanicharati (IRI)
 
+### 21:33 - 23:39 - Sailing: Women's Kite - Semifinal A
+#### Races: 1, 2, 3, 4, 5, 6
+* Breiana Whitehead
+
 ### 23:00 - 🏅 Diving: Men's 3m Springboard Final
 * Kurtis Mathews
 
