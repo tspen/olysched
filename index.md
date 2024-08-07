@@ -94,6 +94,10 @@
 ### 23:06 - Taekwondo: Men -58kg Quarterfinal
 * Bailey Lewis (AUS) vs Mohamed Khalil Jendoubi (TUN)
 
+### 23:10 - Cycling Track: Women's Keirin, Repechages
+* Chloe Moran
+* Kristina Clonan
+
 ### 23:43 - 🏅 Sailing: Mixed Dinghy Medal Race
 * Jerwood / Nicholas
 
