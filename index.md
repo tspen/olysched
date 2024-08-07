@@ -42,6 +42,9 @@
 ### 19:40 - Canoe Sprint: Women's Kayak Four 500m Semifinal 1
 * Australia
 
+### 19:43 - 🏅 Sailing: Mixed Dinghy Medal Race
+* Jerwood / Nicholas
+
 ### 19:50 - Canoe Sprint: Men's Kayak Four 500m Semifinal 1
 * Australia
 
