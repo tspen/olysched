@@ -1,125 +1,83 @@
 # 🇦🇺 Olympic Events
 
-## 7 August
+## 8 August
 
-### 15:30 - 🏅 Athletics: Marathon Race Walk Relay Mixed
-* Cowley R / Montag J
-* Tingay D / Henderson R
+### 15:30 - 🏅 Marathon Swimming: Women's 10km
+* Chelsea Gubecka
+* Moesha Johnson
 
-### 17:00 - Golf: Women's Individual Stroke Play Round 1
+### 17:00 - Golf: Women's Individual Stroke Play Round 2
 * Hannah Green
 * Minjee Lee
 
-### 17:30 - Canoe Sprint: Women's Kayak Single 500m Heats
-* Alyce Wood
+### 17:58 - Taekwondo: Women -57kg Round of 16
+* Stacey Hymer (AUS) vs Maria Clara Pacheco (BRA)
 
-### 18:00 - Diving: Men's 3m Springboard Semifinal
-* Kurtis Mathews
+### 18:00 - Sport Climbing: Women's Boulder & Lead, Semifinal Lead
+* Oceania Mackenzie
 
-### 18:00 - Sport Climbing: Men's Boulder & Lead, Semifinal Lead
-* Campbell Harrison
+### 18:05 - Athletics: Women's Heptathlon 100m Hurdles
+* Camryn Newton-Smith
+* Tori West
 
-### 18:05 - Athletics: Men's High Jump Qualification
-* Brandon Starc
-* Joel Baden
-* Yual Reath
-
-### 18:15 - Athletics: Women's 100m Hurdles Round 1
+### 18:35 - Athletics: Women's 100m Hurdles Repechage Round
 * Celeste Mucci
 * Liz Clay
 * Michelle Jenneke
 
-### 18:25 - Athletics: Women's Javelin Throw Qualification - Group A
-* Kathryn Mitchell
-* Mackenzie Little
+### 19:05 - Athletics: Women's Heptathlon High Jump
+* Camryn Newton-Smith
+* Tori West
 
-### 18:35 - Taekwondo: Men -58kg Round of 16
-* Bailey Lewis (AUS) vs Nouridine Issaka Garba (NIG)
-
-### 18:40 - Canoe Sprint: Men's Kayak Single 1000m Heats
-* Tom Green
-
-### 19:00 - Basketball: Women's Quarterfinal
-* AUS vs SRB
-
-### 19:10 - Athletics: Men's 5000m Round 1
-* Morgan Mcdonald
-* Stewart Mcsweyn
-
-### 19:50 - Athletics: Women's Javelin Throw Qualification - Group B
-* Kelsey-Lee Barber
-
-### 19:55 - Athletics: Men's 800m Round 1
-* Joseph Deng
-* Peter Bol
-* Peyton Craig
-
-### 20:03 - 00:00 - Sailing: Women's Kite
-#### Races: 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
-* Breiana Whitehead
-
-### 20:30 - Skateboarding: Men's Park Prelims
-* Keefer Wilson
-* Keegan Palmer
-* Kieran Woolley
-
-### 20:45 - Athletics: Women's 1500m Repechage Round
-* Linden Hall
-
-### 20:45 - Cycling Track: Men's Sprint, Qualifying
-* Leigh Hoffman
-* Matthew Richardson
-
-### 21:13 - 🏅 Sailing: Men's Dinghy Medal Race
-* Matt Wearn
-
-### 21:26 - Cycling Track: Women's Keirin, First Round
-* Chloe Moran
-* Kristina Clonan
-
-### 21:52 - Cycling Track: Women's Team Pursuit, First Round
-* Alex Manly
-* Georgia Baker
-* Maeve Plouffe
-* Sophie Edwards
-
-### 22:30 - Cycling Track: Men's Sprint, 1/32 Finals
-* Leigh Hoffman
-* Matthew Richardson
-
-### 23:00 - Diving: Women's 3m Springboard Preliminary
-* Alysha Koloi
-* Maddison Keeney
-
-### 23:06 - Taekwondo: Men -58kg Quarterfinal
-* Bailey Lewis (AUS) vs Mohamed Khalil Jendoubi (TUN)
-
-### 23:10 - Cycling Track: Women's Keirin, Repechages
-* Chloe Moran
-* Kristina Clonan
-
-### 23:43 - 🏅 Sailing: Mixed Dinghy Medal Race
-* Jerwood / Nicholas
-
-### 01:30 - 🏅 Skateboarding: Men's Park Final
-* Keefer Wilson
-* Keegan Palmer
-
-### 02:15 - 🏅 Athletics: Women's Pole Vault Final
-* Nina Kennedy
-
-### 02:33 - 🏅 Cycling Track: Men's Team Pursuit, Finals - For Gold
-* AUS vs GBR
-
-### 03:00 - Water Polo: Men's Quarterfinal
-* AUS vs USA
-
-### 03:15 - Athletics: Men's Triple Jump Qualification
-* Connor Murphy
-
-### 03:30 - 🏅 Artistic Swimming: Team Acrobatic Routine
+### 19:10 - Athletics: Women's 4 x 100m Relay Round 1
 * Australia
 
-### 04:25 - 🏅 Athletics: Men's Discus Throw Final
-* Matthew Denny
+### 19:35 - Athletics: Men's 4 x 100m Relay Round 1
+* Australia
+
+### 19:40 - Canoe Sprint: Women's Kayak Four 500m Semifinal 1
+* Australia
+
+### 19:50 - Canoe Sprint: Men's Kayak Four 500m Semifinal 1
+* Australia
+
+### 20:00 - Athletics: Men's 800m Repechage Round
+* Joseph Deng
+* Peter Bol
+
+### 20:03 - Wrestling: Men's Freestyle 86kg 1/8 Final
+* Jayden Alexander Lawrence (AUS) vs Hassan Yazdanicharati (IRI)
+
+### 23:00 - 🏅 Diving: Men's 3m Springboard Final
+* Kurtis Mathews
+
+### 01:00 - Cycling Track: Men's Omnium, Scratch Race 1/4
+* Sam Welsford
+
+### 01:18 - Cycling Track: Women's Keirin, Quarterfinals
+* Kristina Clonan
+
+### 03:35 - Athletics: Women's 1500m Semi-Final
+* Georgia Griffith
+* Jessica Hull
+
+### 03:35 - Athletics: Women's Heptathlon Shot Put
+* Camryn Newton-Smith
+* Tori West
+
+### 03:35 - Water Polo: Women's Semifinal
+* AUS vs USA
+
+### 04:55 - Athletics: Women's Heptathlon 200m
+* Camryn Newton-Smith
+* Tori West
+
+### 05:00 - Beach Volleyball: Women's Semifinal
+* Mariafe / Clancy
+
+### 05:30 - Boxing: Men's 57kg - Semifinal
+* Charlie Senior (AUS) vs Abdumalik Khalokov (UZB)
+
+### 06:02 - Boxing: Women's 75kg - Semifinal
+* Caitlin Parker (AUS) vs Li Qian (CHN)
 
