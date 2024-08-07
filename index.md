@@ -101,6 +101,10 @@
 ### 23:43 - 🏅 Sailing: Mixed Dinghy Medal Race
 * Jerwood / Nicholas
 
+### 01:30 - 🏅 Skateboarding: Men's Park Final
+* Keefer Wilson
+* Keegan Palmer
+
 ### 02:15 - 🏅 Athletics: Women's Pole Vault Final
 * Nina Kennedy
 
