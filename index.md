@@ -13,6 +13,10 @@
 ### 17:58 - Taekwondo: Women -57kg Round of 16
 * Stacey Hymer (AUS) vs Maria Clara Pacheco (BRA)
 
+### 18:00 - Diving: Women's 3m Springboard Semifinal
+* Alysha Koloi
+* Maddison Keeney
+
 ### 18:00 - Sport Climbing: Women's Boulder & Lead, Semifinal Lead
 * Oceania Mackenzie
 
