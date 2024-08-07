@@ -77,7 +77,7 @@
 * Tori West
 
 ### 05:00 - Beach Volleyball: Women's Semifinal
-* Mariafe / Clancy
+* Mariafe / Clancy (AUS) vs Ana Patricia / Duda (BRA)
 
 ### 05:30 - Boxing: Men's 57kg - Semifinal
 * Charlie Senior (AUS) vs Abdumalik Khalokov (UZB)
