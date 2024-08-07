@@ -78,10 +78,14 @@
 * Kristina Clonan
 
 ### 21:52 - Cycling Track: Women's Team Pursuit, First Round
-* Chloe Moran
+* Alex Manly
 * Georgia Baker
 * Maeve Plouffe
 * Sophie Edwards
+
+### 22:30 - Cycling Track: Men's Sprint, 1/32 Finals
+* Leigh Hoffman
+* Matthew Richardson
 
 ### 23:00 - Diving: Women's 3m Springboard Preliminary
 * Alysha Koloi
