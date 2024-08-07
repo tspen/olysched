@@ -29,6 +29,10 @@
 * Liz Clay
 * Michelle Jenneke
 
+### 18:25 - Athletics: Women's Javelin Throw Qualification - Group A
+* Kathryn Mitchell
+* Mackenzie Little
+
 ### 18:35 - Taekwondo: Men -58kg Round of 16
 * Bailey Lewis (AUS) vs Nouridine Issaka Garba (NIG)
 
@@ -41,6 +45,9 @@
 ### 19:10 - Athletics: Men's 5000m Round 1
 * Morgan Mcdonald
 * Stewart Mcsweyn
+
+### 19:50 - Athletics: Women's Javelin Throw Qualification - Group B
+* Kelsey-Lee Barber
 
 ### 19:55 - Athletics: Men's 800m Round 1
 * Joseph Deng
@@ -85,6 +92,9 @@
 
 ### 02:15 - 🏅 Athletics: Women's Pole Vault Final
 * Nina Kennedy
+
+### 02:33 - 🏅 Cycling Track: Men's Team Pursuit, Finals - For Gold
+* AUS vs GBR
 
 ### 03:00 - Water Polo: Men's Quarterfinal
 * AUS vs USA
