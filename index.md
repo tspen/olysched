@@ -88,7 +88,7 @@
 * Maddison Keeney
 
 ### 23:06 - Taekwondo: Men -58kg Quarterfinal
-* Bailey Lewis
+* Bailey Lewis (AUS) vs Mohamed Khalil Jendoubi (TUN)
 
 ### 23:43 - 🏅 Sailing: Mixed Dinghy Medal Race
 * Jerwood / Nicholas
