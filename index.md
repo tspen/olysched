@@ -87,6 +87,9 @@
 * Alysha Koloi
 * Maddison Keeney
 
+### 23:06 - Taekwondo: Men -58kg Quarterfinal
+* Bailey Lewis
+
 ### 23:43 - 🏅 Sailing: Mixed Dinghy Medal Race
 * Jerwood / Nicholas
 
