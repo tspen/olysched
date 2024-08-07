@@ -59,6 +59,9 @@
 #### Races: 1, 2, 3, 4, 5, 6
 * Breiana Whitehead
 
+### 22:30 - Modern Pentathlon: Women's Individual, Fencing Ranking Round
+* Genevieve Janse van Rensburg
+
 ### 23:00 - 🏅 Diving: Men's 3m Springboard Final
 * Kurtis Mathews
 
