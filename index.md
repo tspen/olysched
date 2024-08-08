@@ -40,7 +40,10 @@
 * Torrie Lewis
 
 ### 19:35 - Athletics: Men's 4 x 100m Relay Round 1
-* Australia
+* Calab Law
+* Jacob Despard
+* Joshua Azzopardi
+* Lachlan Kennedy
 
 ### 19:40 - Canoe Sprint: Women's Kayak Four 500m Semifinal 1
 * Australia
