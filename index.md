@@ -32,6 +32,10 @@
 ### 23:00 - 🏅 Weightlifting: Men's 89kg
 * Kyle Bruce
 
+### 00:13 - 01:45 - Breaking: B-Girls Round Robin - Group B
+#### Races: 
+* Raygun
+
 ### 01:30 - Basketball: Women's Semifinal
 * AUS vs USA
 
