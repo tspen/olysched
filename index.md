@@ -10,6 +10,10 @@
 * Cassiel Rousseau
 * Jaxon Bowshire
 
+### 18:05 - Athletics: Women's Heptathlon Long Jump
+* Camryn Newton-Smith
+* Tori West
+
 ### 18:50 - Canoe Sprint: Women's Kayak Double 500m Semifinal 1
 * Beere / Bull
 
