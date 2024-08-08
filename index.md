@@ -68,6 +68,9 @@
 ### 21:40 - 🏅 Canoe Sprint: Women's Kayak Four 500m Final A
 * Australia
 
+### 21:50 - 🏅 Canoe Sprint: Men's Kayak Four 500m Final A
+* Australia
+
 ### 22:30 - Modern Pentathlon: Women's Individual, Fencing Ranking Round
 * Genevieve Janse van Rensburg
 
