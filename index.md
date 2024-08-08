@@ -33,6 +33,12 @@
 * Camryn Newton-Smith
 * Tori West
 
+### 19:10 - Athletics: Women's 4 x 100m Relay Round 1
+* Bree Masters
+* Ella Connolly
+* Kristie Edwards
+* Torrie Lewis
+
 ### 19:35 - Athletics: Men's 4 x 100m Relay Round 1
 * Australia
 
