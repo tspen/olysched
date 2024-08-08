@@ -1,109 +1,55 @@
 # 🇦🇺 Olympic Events
 
-## 8 August
+## 9 August
 
-### 15:30 - 🏅 Marathon Swimming: Women's 10km
-* Chelsea Gubecka
-* Moesha Johnson
+### 15:30 - 🏅 Marathon Swimming: Men's 10km
+* Kyle Lee
+* Nick Sloman
 
-### 17:00 - Golf: Women's Individual Stroke Play Round 2
-* Hannah Green
-* Minjee Lee
+### 18:00 - Diving: Men's 10m Platform Preliminary
+* Cassiel Rousseau
+* Jaxon Bowshire
 
-### 17:58 - Taekwondo: Women -57kg Round of 16
-* Stacey Hymer (AUS) vs Maria Clara Pacheco (BRA)
+### 18:50 - Canoe Sprint: Women's Kayak Double 500m Semifinal 1
+* Beere / Bull
 
-### 18:00 - Diving: Women's 3m Springboard Semifinal
-* Alysha Koloi
-* Maddison Keeney
+### 19:20 - Canoe Sprint: Men's Kayak Double 500m Semifinal 2
+* van Der We / Green
 
-### 18:00 - Sport Climbing: Women's Boulder & Lead, Semifinal Lead
-* Oceania Mackenzie
+### 19:30 - Athletics: Men's 800m Semi-Final
+* Peyton Craig
 
-### 18:05 - Athletics: Women's Heptathlon 100m Hurdles
-* Camryn Newton-Smith
-* Tori West
+### 19:48 - Taekwondo: Men -80kg Round of 16
+* Leon Sejranovic (AUS) vs Firas Katoussi (TUN)
 
-### 18:35 - Athletics: Women's 100m Hurdles Repechage Round
-* Celeste Mucci
-* Liz Clay
-* Michelle Jenneke
-
-### 19:05 - Athletics: Women's Heptathlon High Jump
-* Camryn Newton-Smith
-* Tori West
-
-### 19:10 - Athletics: Women's 4 x 100m Relay Round 1
-* Bree Masters
-* Ella Connolly
-* Kristie Edwards
-* Torrie Lewis
-
-### 19:35 - Athletics: Men's 4 x 100m Relay Round 1
-* Calab Law
-* Jacob Despard
-* Joshua Azzopardi
-* Lachlan Kennedy
-
-### 19:40 - Canoe Sprint: Women's Kayak Four 500m Semifinal 1
-* Australia
-
-### 19:43 - 🏅 Sailing: Mixed Dinghy Medal Race
-* Jerwood / Nicholas
-
-### 19:50 - Canoe Sprint: Men's Kayak Four 500m Semifinal 1
-* Australia
-
-### 20:00 - Athletics: Men's 800m Repechage Round
-* Joseph Deng
-* Peter Bol
-
-### 20:03 - Wrestling: Men's Freestyle 86kg 1/8 Final
-* Jayden Alexander Lawrence (AUS) vs Hassan Yazdanicharati (IRI)
-
-### 21:33 - 23:39 - Sailing: Women's Kite - Semifinal A
-#### Races: 1, 2, 3, 4, 5, 6
-* Breiana Whitehead
-
-### 21:40 - 🏅 Canoe Sprint: Women's Kayak Four 500m Final A
-* Australia
-
-### 21:50 - 🏅 Canoe Sprint: Men's Kayak Four 500m Final A
-* Australia
-
-### 22:30 - Modern Pentathlon: Women's Individual, Fencing Ranking Round
-* Genevieve Janse van Rensburg
-
-### 23:00 - 🏅 Diving: Men's 3m Springboard Final
-* Kurtis Mathews
-
-### 01:00 - Cycling Track: Men's Omnium, Scratch Race 1/4
-* Sam Welsford
-
-### 01:18 - Cycling Track: Women's Keirin, Quarterfinals
+### 22:00 - Cycling Track: Women's Sprint, Qualifying
+* Chloe Moran
 * Kristina Clonan
 
-### 03:35 - Athletics: Women's 1500m Semi-Final
-* Georgia Griffith
-* Jessica Hull
+### 23:00 - 🏅 Diving: Women's 3m Springboard Final
+* Maddison Keeney
 
-### 03:35 - Athletics: Women's Heptathlon Shot Put
-* Camryn Newton-Smith
-* Tori West
+### 23:00 - 🏅 Weightlifting: Men's 89kg
+* Kyle Bruce
 
-### 03:35 - Water Polo: Women's Semifinal
+### 01:30 - Basketball: Women's Semifinal
 * AUS vs USA
 
-### 04:55 - Athletics: Women's Heptathlon 200m
-* Camryn Newton-Smith
-* Tori West
+### 02:00 - Water Polo: Men's Classification 5th-8th
+* AUS vs GRE
 
-### 05:00 - Beach Volleyball: Women's Semifinal
-* Mariafe / Clancy (AUS) vs Ana Patricia / Duda (BRA)
+### 02:09 - 🏅 Cycling Track: Women's Madison, Final
+* Australia
 
-### 05:30 - Boxing: Men's 57kg - Semifinal
-* Charlie Senior (AUS) vs Abdumalik Khalokov (UZB)
+### 03:30 - Artistic Swimming: Duet Technical Routine
+* Australia
 
-### 06:02 - Boxing: Women's 75kg - Semifinal
-* Caitlin Parker (AUS) vs Li Qian (CHN)
+### 03:30 - 🏅 Weightlifting: Women's 71kg
+* Jacqueline Nichele
+
+### 04:13 - 🏅 Athletics: Men's Triple Jump Final
+* Connor Murphy
+
+### 04:57 - 🏅 Athletics: Women's 10,000m Final
+* Lauren Ryan
 
