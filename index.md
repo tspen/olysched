@@ -13,6 +13,9 @@
 ### 18:50 - Canoe Sprint: Women's Kayak Double 500m Semifinal 1
 * Beere / Bull
 
+### 19:07 - Wrestling: Men's Freestyle 86kg Repechage
+* Jayden Alexander Lawrence (AUS) vs Dauren Kurugliev (GRE)
+
 ### 19:20 - Canoe Sprint: Men's Kayak Double 500m Semifinal 2
 * van Der We / Green
 
