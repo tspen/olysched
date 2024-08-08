@@ -64,3 +64,6 @@
 ### 04:57 - 🏅 Athletics: Women's 10,000m Final
 * Lauren Ryan
 
+### 05:00 - Beach Volleyball: Women's Bronze Medal Match
+* Mariafe / Clancy (AUS) vs Huberli / Brunner (SUI)
+
