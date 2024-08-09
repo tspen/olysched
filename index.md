@@ -39,6 +39,9 @@
 #### Races: 
 * J Attack
 
+### 01:00 - Cycling Track: Women's Sprint, 1/8 Finals
+* Kristina Clonan
+
 ### 01:19 - Cycling Track: Men's Keirin, First Round
 * Matthew Glaetzer
 * Matthew Richardson
