@@ -48,6 +48,9 @@
 ### 21:10 - 🏅 Canoe Sprint: Women's Kayak Double 500m Final A
 * Beere / Bull
 
+### 21:30 - 🏅 Canoe Sprint: Men's Kayak Double 500m Final A
+* van Der We / Green
+
 ### 22:00 - Cycling Track: Women's Sprint, Qualifying
 * Chloe Moran
 * Kristina Clonan
