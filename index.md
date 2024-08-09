@@ -1,98 +1,61 @@
 # 🇦🇺 Olympic Events
 
-## 9 August
+## 10 August
 
-### 15:30 - 🏅 Marathon Swimming: Men's 10km
-* Kyle Lee
-* Nick Sloman
+### 16:00 - 🏅 Athletics: Men's Marathon
+* Andrew Buchanan
+* Liam Adams
+* Patrick Tiernan
 
-### 17:00 - Golf: Women's Individual Stroke Play Round 3
-* Hannah Green
-* Minjee Lee
-
-### 18:00 - Diving: Men's 10m Platform Preliminary
+### 18:00 - Diving: Men's 10m Platform Semifinal
 * Cassiel Rousseau
 * Jaxon Bowshire
 
-### 18:00 - Rhythmic Gymnastics: Group All-Around Qualification - Part 1 of 2
-* Australia
+### 18:10 - Modern Pentathlon: Women's Individual, Semi-final A, Fencing Bonus Round
+* Genevieve Janse van Rensburg
 
-### 18:05 - Athletics: Women's Heptathlon Long Jump
-* Camryn Newton-Smith
-* Tori West
+### 18:15 - Sport Climbing: Women's Boulder & Lead, Final Boulder
+* Oceania Mackenzie
 
-### 18:50 - Canoe Sprint: Women's Kayak Double 500m Semifinal 1
-* Beere / Bull
+### 18:30 - Canoe Sprint: Women's Kayak Single 500m Semifinal 1
+* Alyce Wood
 
-### 19:07 - Wrestling: Men's Freestyle 86kg Repechage
-* Jayden Alexander Lawrence (AUS) vs Dauren Kurugliev (GRE)
+### 19:10 - Canoe Sprint: Men's Kayak Single 1000m Semifinal 1
+* Tom Green
 
-### 19:16 - Rhythmic Gymnastics: Group All-Around Qualification - Part 2 of 2
-* Australia
+### 19:49 - Wrestling: Men's Freestyle 65kg 1/8 Final
+* Georgii Okorokov (AUS) vs Sebastian C Rivera (PUR)
 
-### 19:20 - Canoe Sprint: Men's Kayak Double 500m Semifinal 2
-* van Der We / Green
+### 20:35 - 🏅 Sport Climbing: Women's Boulder & Lead, Final Lead
+* Oceania Mackenzie
 
-### 19:23 - Athletics: Women's Heptathlon Javelin Throw - Group A
-* Camryn Newton-Smith
+### 23:35 - 🏅 Water Polo: Women's Gold Medal Match
+* AUS vs ESP
 
-### 19:30 - Athletics: Men's 800m Semi-Final
-* Peyton Craig
+### 00:00 - 🏅 Weightlifting: Women's 81kg
+* Eileen Cikamatana
 
-### 19:48 - Taekwondo: Men -80kg Round of 16
-* Leon Sejranovic (AUS) vs Firas Katoussi (TUN)
-
-### 20:32 - Athletics: Women's Heptathlon Javelin Throw - Group B
-* Tori West
-
-### 21:10 - 🏅 Canoe Sprint: Women's Kayak Double 500m Final A
-* Beere / Bull
-
-### 21:30 - 🏅 Canoe Sprint: Men's Kayak Double 500m Final A
-* van Der We / Green
-
-### 22:00 - Cycling Track: Women's Sprint, Qualifying
-* Chloe Moran
-* Kristina Clonan
-
-### 22:48 - Cycling Track: Women's Sprint, 1/32 Finals
-* Kristina Clonan
-
-### 23:00 - 🏅 Diving: Women's 3m Springboard Final
-* Maddison Keeney
-
-### 23:00 - 🏅 Weightlifting: Men's 89kg
-* Kyle Bruce
-
-### 00:13 - 01:45 - Breaking: B-Girls Round Robin - Group B
+### 00:17 - 01:50 - Breaking: B-Boys Round Robin - Group B
 #### Races: 
-* Raygun
+* J Attack
 
-### 01:30 - Basketball: Women's Semifinal
-* AUS vs USA
+### 01:19 - Cycling Track: Men's Keirin, First Round
+* Matthew Glaetzer
+* Matthew Richardson
 
-### 02:00 - Water Polo: Men's Classification 5th-8th
-* AUS vs GRE
-
-### 02:09 - 🏅 Cycling Track: Women's Madison, Final
+### 01:59 - 🏅 Cycling Track: Men's Madison, Final
 * Australia
 
-### 03:30 - Artistic Swimming: Duet Technical Routine
+### 03:30 - 🏅 Artistic Swimming: Duet Free Routine
 * Australia
 
-### 03:30 - 🏅 Weightlifting: Women's 71kg
-* Jacqueline Nichele
+### 03:30 - 🏅 Athletics: Women's Javelin Throw Final
+* Kathryn Mitchell
+* Mackenzie Little
 
-### 04:13 - 🏅 Athletics: Men's Triple Jump Final
-* Connor Murphy
+### 03:50 - 🏅 Athletics: Men's 5000m Final
+* Stewart Mcsweyn
 
-### 04:25 - 🏅 Athletics: Women's Heptathlon 800m
-* Camryn Newton-Smith
-* Tori West
-
-### 04:57 - 🏅 Athletics: Women's 10,000m Final
-* Lauren Ryan
-
-### 05:00 - Beach Volleyball: Women's Bronze Medal Match
-* Mariafe / Clancy (AUS) vs Huberli / Brunner (SUI)
+### 04:15 - 🏅 Athletics: Women's 1500m Final
+* Jessica Hull
 
