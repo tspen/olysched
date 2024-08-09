@@ -53,6 +53,9 @@
 * Kathryn Mitchell
 * Mackenzie Little
 
+### 03:35 - Water Polo: Men's Classification 7th-8th
+* AUS vs ITA
+
 ### 03:50 - 🏅 Athletics: Men's 5000m Final
 * Stewart Mcsweyn
 
