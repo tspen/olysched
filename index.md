@@ -6,9 +6,16 @@
 * Kyle Lee
 * Nick Sloman
 
+### 17:00 - Golf: Women's Individual Stroke Play Round 3
+* Hannah Green
+* Minjee Lee
+
 ### 18:00 - Diving: Men's 10m Platform Preliminary
 * Cassiel Rousseau
 * Jaxon Bowshire
+
+### 18:00 - Rhythmic Gymnastics: Group All-Around Qualification - Part 1 of 2
+* Australia
 
 ### 18:05 - Athletics: Women's Heptathlon Long Jump
 * Camryn Newton-Smith
@@ -20,14 +27,23 @@
 ### 19:07 - Wrestling: Men's Freestyle 86kg Repechage
 * Jayden Alexander Lawrence (AUS) vs Dauren Kurugliev (GRE)
 
+### 19:16 - Rhythmic Gymnastics: Group All-Around Qualification - Part 2 of 2
+* Australia
+
 ### 19:20 - Canoe Sprint: Men's Kayak Double 500m Semifinal 2
 * van Der We / Green
+
+### 19:23 - Athletics: Women's Heptathlon Javelin Throw - Group A
+* Camryn Newton-Smith
 
 ### 19:30 - Athletics: Men's 800m Semi-Final
 * Peyton Craig
 
 ### 19:48 - Taekwondo: Men -80kg Round of 16
 * Leon Sejranovic (AUS) vs Firas Katoussi (TUN)
+
+### 20:32 - Athletics: Women's Heptathlon Javelin Throw - Group B
+* Tori West
 
 ### 22:00 - Cycling Track: Women's Sprint, Qualifying
 * Chloe Moran
