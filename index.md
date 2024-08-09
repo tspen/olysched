@@ -55,6 +55,9 @@
 * Chloe Moran
 * Kristina Clonan
 
+### 22:48 - Cycling Track: Women's Sprint, 1/32 Finals
+* Kristina Clonan
+
 ### 23:00 - 🏅 Diving: Women's 3m Springboard Final
 * Maddison Keeney
 
