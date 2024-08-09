@@ -23,7 +23,7 @@
 ### 19:10 - Canoe Sprint: Men's Kayak Single 1000m Semifinal 1
 * Tom Green
 
-### 19:49 - Wrestling: Men's Freestyle 65kg 1/8 Final
+### 19:35 - Wrestling: Men's Freestyle 65kg 1/8 Final
 * Georgii Okorokov (AUS) vs Sebastian C Rivera (PUR)
 
 ### 20:35 - 🏅 Sport Climbing: Women's Boulder & Lead, Final Lead
