@@ -45,6 +45,9 @@
 ### 20:32 - Athletics: Women's Heptathlon Javelin Throw - Group B
 * Tori West
 
+### 21:10 - 🏅 Canoe Sprint: Women's Kayak Double 500m Final A
+* Beere / Bull
+
 ### 22:00 - Cycling Track: Women's Sprint, Qualifying
 * Chloe Moran
 * Kristina Clonan
@@ -76,6 +79,10 @@
 
 ### 04:13 - 🏅 Athletics: Men's Triple Jump Final
 * Connor Murphy
+
+### 04:25 - 🏅 Athletics: Women's Heptathlon 800m
+* Camryn Newton-Smith
+* Tori West
 
 ### 04:57 - 🏅 Athletics: Women's 10,000m Final
 * Lauren Ryan
