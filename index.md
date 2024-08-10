@@ -30,6 +30,9 @@
 ### 19:10 - Canoe Sprint: Men's Kayak Single 1000m Semifinal 1
 * Tom Green
 
+### 19:27 - Modern Pentathlon: Women's Individual, Semi-final A, Laser Run
+* Genevieve Janse van Rensburg
+
 ### 19:35 - Wrestling: Men's Freestyle 65kg 1/8 Final
 * Georgii Okorokov (AUS) vs Sebastian C Rivera (PUR)
 
