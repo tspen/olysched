@@ -39,6 +39,12 @@
 ### 20:35 - 🏅 Sport Climbing: Women's Boulder & Lead, Final Lead
 * Oceania Mackenzie
 
+### 20:50 - Canoe Sprint: Women's Kayak Single 500m Final B
+* Alyce Wood
+
+### 21:10 - Canoe Sprint: Men's Kayak Single 1000m Final B
+* Tom Green
+
 ### 23:00 - 🏅 Diving: Men's 10m Platform Final
 * Cassiel Rousseau
 
