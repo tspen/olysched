@@ -7,6 +7,9 @@
 * Liam Adams
 * Patrick Tiernan
 
+### 17:30 - Modern Pentathlon: Women's Individual, Semi-final A, Riding Show Jumping
+* Genevieve Janse van Rensburg
+
 ### 18:00 - Diving: Men's 10m Platform Semifinal
 * Cassiel Rousseau
 * Jaxon Bowshire
