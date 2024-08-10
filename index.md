@@ -7,6 +7,10 @@
 * Liam Adams
 * Patrick Tiernan
 
+### 17:00 - 🏅 Golf: Women's Individual Stroke Play Round 4
+* Hannah Green
+* Minjee Lee
+
 ### 17:30 - Modern Pentathlon: Women's Individual, Semi-final A, Riding Show Jumping
 * Genevieve Janse van Rensburg
 
