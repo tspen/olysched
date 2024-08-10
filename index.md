@@ -18,11 +18,11 @@
 * Cassiel Rousseau
 * Jaxon Bowshire
 
-### 18:10 - Modern Pentathlon: Women's Individual, Semi-final A, Fencing Bonus Round
-* Genevieve Janse van Rensburg
-
 ### 18:15 - Sport Climbing: Women's Boulder & Lead, Final Boulder
 * Oceania Mackenzie
+
+### 18:24 - Modern Pentathlon: Women's Individual, Semi-final A, Fencing Bonus Round
+* Genevieve Janse van Rensburg
 
 ### 18:30 - Canoe Sprint: Women's Kayak Single 500m Semifinal 1
 * Alyce Wood
