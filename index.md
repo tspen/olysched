@@ -39,6 +39,9 @@
 ### 20:35 - 🏅 Sport Climbing: Women's Boulder & Lead, Final Lead
 * Oceania Mackenzie
 
+### 23:00 - 🏅 Diving: Men's 10m Platform Final
+* Cassiel Rousseau
+
 ### 23:35 - 🏅 Water Polo: Women's Gold Medal Match
 * AUS vs ESP
 
